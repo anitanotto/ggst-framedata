@@ -100,6 +100,14 @@ function parseMove(arr) {
             arr[11] = '2'
         }
 
+        if (arr[7].includes('wiki')) {
+            arr[7] = arr[7].split(' ')[0]
+        }
+
+        if (arr[8].includes('wiki')) {
+            arr[8] = arr[8].split(' ')[0]
+        }
+
         arr[13] = arr[13].split('<br>').map(e => e.trim()).join(', ')
         return {
             'input' : arr[0],

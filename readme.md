@@ -38,7 +38,7 @@ I wanted to make some kind of app using the game's frame data, but, the only API
 ## Optimizations
 This API is future-proofed by a script that can update the data for every character as well as pull data for new characters in the event of a game patch!
 
-Just use `npm run update`.
+Just use `npm run frameupdate`.
 
 ## Lessons Learned:
 Inputting all of the data for this API manually would have taken much more time than learning how to scrape it... so, I learned how to scrape.
