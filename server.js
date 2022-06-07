@@ -25,7 +25,8 @@ app.get('/api/:character', (req, res) => {
     if (fs.existsSync(`./data/${character}.json`)) {
         res.sendFile(__dirname + `/data/${character}.json`)
     }else{
-        res.json({})
+        res.statusMessage =  'Invalid Endpoint'
+        res.status(400).end()
     }
 })
 
