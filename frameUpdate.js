@@ -58,7 +58,7 @@ async function parseFrameData(frameUrl) {
 
     tables.forEach(tr => {
         if (tr[0] === '') {
-            characterString += (JSON.stringify(parseMove(tr.slice(1))) + ',')
+            characterString += (parseMove(tr.slice(1)) + ',')
         }
     })
 
@@ -73,22 +73,21 @@ function parseMove(arr) {
     if (arr.length === 14) {
         //correction to some leftovers from scraping
         arr[12] = arr[12].split('<br>').map(e => e.trim()).join(', ')
-        return {
-            'input' : arr[0],
-            'damage' : arr[1],
-            'guard' : arr[2],
-            'startup' : arr[3],
-            'active' : arr[4],
-            'recovery' : arr[5],
-            'onBlock' : arr[6],
-            'onHit' : arr[7],
-            'riscGain' : arr[8],
-            'riscLoss' : arr[9],
-            'level' : arr[10],
-            'counter' : arr[11],
-            'invuln' : arr[12],
-            'prorate' : arr[13]
-        }
+        return `"${arr[0]}" : {
+            "damage" : "${arr[1]}",
+            "guard" : "${arr[2]}",
+            "startup" : "${arr[3]}",
+            "active" : "${arr[4]}",
+            "recovery" : "${arr[5]}",
+            "onBlock" : "${arr[6]}",
+            "onHit" : "${arr[7]}",
+            "riscGain" : "${arr[8]}",
+            "riscLoss" : "${arr[9]}",
+            "level" : "${arr[10]}",
+            "counter" : "${arr[11]}",
+            "invuln" : "${arr[12]}",
+            "prorate" : "${arr[13]}"
+        }`
 
     //if one of these arrays is 15 length instead of 14, it is a special move
     //so, we include the move's name in the object as well
@@ -109,23 +108,22 @@ function parseMove(arr) {
         }
 
         arr[13] = arr[13].split('<br>').map(e => e.trim()).join(', ')
-        return {
-            'input' : arr[0],
-            'name' : arr[1],
-            'damage' : arr[2],
-            'guard' : arr[3],
-            'startup' : arr[4],
-            'active' : arr[5],
-            'recovery' : arr[6],
-            'onBlock' : arr[7],
-            'onHit' : arr[8],
-            'riscGain' : arr[9],
-            'riscLoss' : arr[10],
-            'level' : arr[11],
-            'counter' : arr[12],
-            'invuln' : arr[13],
-            'prorate' : arr[14]
-        }
+        return `"${arr[0]}" : {
+            "name" : "${arr[1]}",
+            "damage" : "${arr[2]}",
+            "guard" : "${arr[3]}",
+            "startup" : "${arr[4]}",
+            "active" : "${arr[5]}",
+            "recovery" : "${arr[6]}",
+            "onBlock" : "${arr[7]}",
+            "onHit" : "${arr[8]}",
+            "riscGain" : "${arr[9]}",
+            "riscLoss" : "${arr[10]}",
+            "level" : "${arr[11]}",
+            "counter" : "${arr[12]}",
+            "invuln" : "${arr[13]}",
+            "prorate" : "${arr[14]}"
+        }`
 
     }
     

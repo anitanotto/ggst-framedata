@@ -11,10 +11,19 @@ const __dirname = dirname(__filename);
 const app = express()
 const PORT = process.env.PORT || 8000
 
+app.set('view engine', 'ejs')
+
 app.use(cors())
+app.use(express.static('public'))
+app.use(express.urlencoded({ extended: true}))
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/index.html')
+    //getFiles()
+    res.render('index.ejs')
+})
+
+app.get('/api', (req, res) => {
+    res.render('api.ejs')
 })
 
 app.get('/api/:character', (req, res) => {
@@ -33,3 +42,19 @@ app.get('/api/:character', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}...`) 
 })
+
+async function getFiles() {
+    const files = await fs.promises.readdir(__dirname + '/data')
+
+    let character = ''
+
+    fs.readFile(`${__dirname}/data/${files[0]}`, 'utf8', (err, data) =>  {
+        if (err) throw err
+        console.log(data)
+        character = data
+        character = JSON.stringify(character)
+    })
+
+    console.log(character)
+
+}
