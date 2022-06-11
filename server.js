@@ -16,10 +16,18 @@ app.set('view engine', 'ejs')
 app.use(cors())
 app.use(express.static('public'))
 app.use(express.urlencoded({ extended: true}))
+app.use(express.json())
 
 app.get('/', (req, res) => {
-    //getFiles()
-    res.render('index.ejs')
+    let data = getCharacters()
+    res.render('index.ejs', { info: data, p1: '', p2: '' })
+})
+
+app.get('/turn/:player1/:player2', (req, res) => {
+    const player1 = req.params.player1.toLowerCase()
+    const player2 = req.params.player2.toLowerCase()
+    const data = getCharacters()
+    res.render('index.ejs', { info: data, p1: player1, p2: player2 })
 })
 
 app.get('/api', (req, res) => {
@@ -43,18 +51,18 @@ app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}...`) 
 })
 
-async function getFiles() {
-    const files = await fs.promises.readdir(__dirname + '/data')
+function getCharacters() {
+    const files = fs.readdirSync(__dirname + '/data')
 
-    let character = ''
+    let characters = {}
 
-    fs.readFile(`${__dirname}/data/${files[0]}`, 'utf8', (err, data) =>  {
-        if (err) throw err
-        console.log(data)
-        character = data
-        character = JSON.stringify(character)
-    })
+    for (let i = 0; i < files.length; i++) {
+        characters[String(files[i].split('.')[0])] = fs.readFileSync(`${__dirname}/data/${files[i]}`, 'utf8', (err, data) =>  {
+            if (err) throw err
+            return JSON.parse(data)
+        })
+    }
 
-    console.log(character)
+    return characters
 
 }

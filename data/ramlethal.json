@@ -31,9 +31,9 @@
             "guard" : "All",
             "startup" : "7",
             "active" : "6",
-            "recovery" : "13",
-            "onBlock" : "-2",
-            "onHit" : "1",
+            "recovery" : "10",
+            "onBlock" : "+1",
+            "onHit" : "+4",
             "riscGain" : "2000",
             "riscLoss" : "1000",
             "level" : "3",
@@ -99,11 +99,11 @@
         },"2S" : {
             "damage" : "38 [30]",
             "guard" : "Low",
-            "startup" : "12 [12]",
-            "active" : "4 [4]",
-            "recovery" : "20 [20]",
-            "onBlock" : "-7 [-10]",
-            "onHit" : "-4 [-7]",
+            "startup" : "10",
+            "active" : "4",
+            "recovery" : "18",
+            "onBlock" : "-5 [-8]",
+            "onHit" : "-2 [-5]",
             "riscGain" : "2000 [1500]",
             "riscLoss" : "1000",
             "level" : "3 [2]",
@@ -266,7 +266,7 @@
             "prorate" : "100%"
         },"236S" : {
             "name" : "Bajoneto",
-            "damage" : "30,35",
+            "damage" : "25, 30",
             "guard" : "All",
             "startup" : "20",
             "active" : "",
@@ -281,7 +281,7 @@
             "prorate" : "80%"
         },"236H" : {
             "name" : "Bajoneto",
-            "damage" : "30,35",
+            "damage" : "25, 30",
             "guard" : "All",
             "startup" : "20",
             "active" : "",
@@ -472,4 +472,18 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 26",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }}

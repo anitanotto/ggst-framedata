@@ -31,9 +31,9 @@
             "guard" : "All",
             "startup" : "9",
             "active" : "6",
-            "recovery" : "13",
-            "onBlock" : "-2",
-            "onHit" : "+1",
+            "recovery" : "15",
+            "onBlock" : "+1",
+            "onHit" : "+4",
             "riscGain" : "2000",
             "riscLoss" : "1000",
             "level" : "3",
@@ -55,7 +55,7 @@
             "invuln" : "",
             "prorate" : "90%"
         },"5H" : {
-            "damage" : "40",
+            "damage" : "48",
             "guard" : "All",
             "startup" : "13",
             "active" : "9",
@@ -85,7 +85,7 @@
         },"2K" : {
             "damage" : "26",
             "guard" : "Low",
-            "startup" : "7",
+            "startup" : "6",
             "active" : "2",
             "recovery" : "13",
             "onBlock" : "-3",
@@ -111,7 +111,7 @@
             "invuln" : "",
             "prorate" : "90%"
         },"2H" : {
-            "damage" : "48",
+            "damage" : "40",
             "guard" : "All",
             "startup" : "13",
             "active" : "7",
@@ -128,7 +128,7 @@
             "damage" : "13x3",
             "guard" : "High",
             "startup" : "8",
-            "active" : "2(3)2(3)2",
+            "active" : "5, 5, 2",
             "recovery" : "15",
             "onBlock" : "",
             "onHit" : "",
@@ -325,7 +325,7 @@
             "prorate" : "80%"
         },"]K[" : {
             "name" : "That's a lot",
-            "damage" : "22×4",
+            "damage" : "20×4",
             "guard" : "All",
             "startup" : "19",
             "active" : "",
@@ -340,7 +340,7 @@
             "prorate" : "80%"
         },"236K" : {
             "name" : "That's a lot",
-            "damage" : "22×4",
+            "damage" : "20×4",
             "guard" : "All",
             "startup" : "27 {31}",
             "active" : "",
@@ -348,14 +348,14 @@
             "onBlock" : "+55",
             "onHit" : "KD",
             "riscGain" : "100×4",
-            "riscLoss" : "1000×4",
+            "riscLoss" : "1000",
             "level" : "2",
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
         },"]S[" : {
             "name" : "Leap",
-            "damage" : "20, 60",
+            "damage" : "20, 40",
             "guard" : "All",
             "startup" : "13",
             "active" : "2×13",
@@ -370,7 +370,7 @@
             "prorate" : "80%"
         },"236S" : {
             "name" : "Leap",
-            "damage" : "20, 60",
+            "damage" : "20, 40",
             "guard" : "All",
             "startup" : "21 {25}",
             "active" : "2×13",
@@ -507,7 +507,7 @@
             "name" : "Amorphous",
             "damage" : "150",
             "guard" : "All",
-            "startup" : "11+8",
+            "startup" : "8+8",
             "active" : "",
             "recovery" : "",
             "onBlock" : "+12",

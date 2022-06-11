@@ -340,7 +340,7 @@
             "prorate" : "50%"
         },"236P" : {
             "name" : "Mega Fist",
-            "damage" : "60",
+            "damage" : "50",
             "guard" : "High",
             "startup" : "25",
             "active" : "7",
@@ -355,7 +355,7 @@
             "prorate" : "80%"
         },"214P" : {
             "name" : "Mega Fist",
-            "damage" : "60",
+            "damage" : "50",
             "guard" : "High",
             "startup" : "25",
             "active" : "7",
@@ -408,7 +408,7 @@
             "onBlock" : "-6",
             "onHit" : "KD",
             "riscGain" : "2000",
-            "riscLoss" : "2000",
+            "riscLoss" : "1000",
             "level" : "3",
             "counter" : "Mid",
             "invuln" : "4 ~ [20~37F] Reflect",
@@ -430,7 +430,7 @@
             "prorate" : "80%"
         },"214H" : {
             "name" : "Garuda Impact",
-            "damage" : "73",
+            "damage" : "63",
             "guard" : "All (Guard Crush)",
             "startup" : "28",
             "active" : "11",
@@ -460,25 +460,25 @@
             "prorate" : "100%"
         },"632146H" : {
             "name" : "Giganter Kai",
-            "damage" : "120",
+            "damage" : "60",
             "guard" : "All",
-            "startup" : "10+9",
-            "active" : "3(2)",
-            "recovery" : "28",
-            "onBlock" : "+1",
+            "startup" : "10+1",
+            "active" : "5",
+            "recovery" : "17",
+            "onBlock" : "+100",
             "onHit" : "KD",
             "riscGain" : "2500",
             "riscLoss" : "1000",
             "level" : "",
             "counter" : "Mid",
-            "invuln" : "1 ~ 10F Full, 11 ~ 21F Strike",
+            "invuln" : "",
             "prorate" : "100%"
         },"Mirror" : {
             "name" : "Giganter Kai (Barrier)",
-            "damage" : "25×3",
+            "damage" : "15×3",
             "guard" : "All",
-            "startup" : "10+14",
-            "active" : "301",
+            "startup" : "10+6",
+            "active" : "481",
             "recovery" : "",
             "onBlock" : "",
             "onHit" : "KD",

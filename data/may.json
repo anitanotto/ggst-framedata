@@ -55,7 +55,7 @@
             "invuln" : "",
             "prorate" : "90%"
         },"5H" : {
-            "damage" : "65",
+            "damage" : "55",
             "guard" : "All",
             "startup" : "13",
             "active" : "8",
@@ -251,7 +251,7 @@
             "invuln" : "",
             "prorate" : "90%"
         },"6H" : {
-            "damage" : "70 [90]",
+            "damage" : "60 [90]",
             "guard" : "All [All (Guard Crush)]",
             "startup" : "16 [40]",
             "active" : "6 [6]",
@@ -308,7 +308,7 @@
             "prorate" : "100%"
         },"[4]6S" : {
             "name" : "Mr. Dolphin Horizontal",
-            "damage" : "35",
+            "damage" : "30",
             "guard" : "All",
             "startup" : "7",
             "active" : "15",
@@ -323,7 +323,7 @@
             "prorate" : ""
         },"[4]6H" : {
             "name" : "Mr. Dolphin Horizontal",
-            "damage" : "45",
+            "damage" : "40",
             "guard" : "All",
             "startup" : "25",
             "active" : "15",
