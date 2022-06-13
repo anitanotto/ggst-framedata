@@ -712,4 +712,18 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
+        },"66" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 22",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }}

@@ -720,7 +720,7 @@
             "active" : "3",
             "recovery" : "38",
             "onBlock" : "",
-            "onHit" : "HKD +55",
+            "onHit" : "HKD (+55)",
             "riscGain" : "",
             "riscLoss" : "2500",
             "level" : "",
@@ -741,4 +741,18 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : "50%"
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 22",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }}

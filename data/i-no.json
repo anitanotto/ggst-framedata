@@ -375,7 +375,7 @@
             "guard" : "All",
             "startup" : "11",
             "active" : "14",
-            "recovery" : "26",
+            "recovery" : "22",
             "onBlock" : "-2",
             "onHit" : "",
             "riscGain" : "",
@@ -389,7 +389,7 @@
             "damage" : "45",
             "guard" : "All",
             "startup" : "11",
-            "active" : "10",
+            "active" : "14",
             "recovery" : "Until Landing + 7",
             "onBlock" : "",
             "onHit" : "",
@@ -472,4 +472,18 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 26",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }}

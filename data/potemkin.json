@@ -282,7 +282,7 @@
             "name" : "Hammer Fall",
             "damage" : "58",
             "guard" : "All",
-            "startup" : "18~47",
+            "startup" : "18~62",
             "active" : "2f",
             "recovery" : "26",
             "onBlock" : "-9",

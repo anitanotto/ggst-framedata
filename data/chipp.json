@@ -545,6 +545,20 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 24",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         },"Wall Run" : {
             "damage" : "",
             "guard" : "",

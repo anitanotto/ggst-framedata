@@ -33,7 +33,7 @@
             "active" : "6",
             "recovery" : "10",
             "onBlock" : "+3",
-            "onHit" : "",
+            "onHit" : "+13",
             "riscGain" : "2500",
             "riscLoss" : "1000",
             "level" : "4",
@@ -181,7 +181,7 @@
             "invuln" : "",
             "prorate" : "80%"
         },"j.D" : {
-            "damage" : "21, 21",
+            "damage" : "20, 20",
             "guard" : "High",
             "startup" : "7",
             "active" : "3(7)3",
@@ -359,7 +359,7 @@
             "startup" : "[4] 27",
             "active" : "6(20)3",
             "recovery" : "Until L+12",
-            "onBlock" : "-5",
+            "onBlock" : "",
             "onHit" : "HKD",
             "riscGain" : "2000, 1875",
             "riscLoss" : "1480",
@@ -425,4 +425,18 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 22",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }}

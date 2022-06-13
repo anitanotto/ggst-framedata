@@ -416,7 +416,7 @@
             "prorate" : "100%"
         },"632146H" : {
             "name" : "Calvados",
-            "damage" : "4×29,40",
+            "damage" : "1×29, 127",
             "guard" : "All (Guard Crush)",
             "startup" : "11+13",
             "active" : "",
@@ -435,8 +435,8 @@
             "guard" : "All",
             "startup" : "7+2",
             "active" : "6",
-            "recovery" : "42",
-            "onBlock" : "-30 [-30] {-35}",
+            "recovery" : "51",
+            "onBlock" : "-38 [-38] {-43}",
             "onHit" : "KD",
             "riscGain" : "2500 {1500}",
             "riscLoss" : "1000",
