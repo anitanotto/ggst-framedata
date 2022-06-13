@@ -108,8 +108,7 @@ function parseMove(arr) {
         }
 
         arr[13] = arr[13].split('<br>').map(e => e.trim()).join(', ')
-        return `"${arr[0]}" : {
-            "name" : "${arr[1]}",
+        return `"${arr[0]} (${arr[1]})" : {
             "damage" : "${arr[2]}",
             "guard" : "${arr[3]}",
             "startup" : "${arr[4]}",
@@ -140,12 +139,18 @@ async function writeFrameData() {
         endpoints.push(a.split('/')[a.split('/').length-1].toLowerCase())
         return baseURL + a + '/Frame_Data'
     })
-        
+    
+    let allString = '{'
+
     for (let i = 0; i < index.length; i++) {
         let data = await parseFrameData(index[i])
-        console.log(`Writing ${endpoints[i]}.json`)
+        allString += `"${endpoints[i]}" : ${data},`
+        console.log(`Writing ${endpoints[i]}.json...`)
         fs.writeFileSync(`./data/${endpoints[i]}.json`, data)
     }
+
+    console.log('Writing all.json...')
+    fs.writeFileSync(`./data/all.json`, (allString.slice(0,-1) + '}'))
 }
 
 writeFrameData()

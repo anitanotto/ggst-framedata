@@ -264,8 +264,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"236S" : {
-            "name" : "Stroke the Big Tree",
+        },"236S (Stroke the Big Tree)" : {
             "damage" : "36",
             "guard" : "Low",
             "startup" : "16",
@@ -279,8 +278,7 @@
             "counter" : "",
             "invuln" : "5~15F Low Profile",
             "prorate" : "90%"
-        },"236H" : {
-            "name" : "Stroke the Big Tree",
+        },"236H (Stroke the Big Tree)" : {
             "damage" : "42",
             "guard" : "Low",
             "startup" : "28",
@@ -294,8 +292,7 @@
             "counter" : "",
             "invuln" : "9~27F Low Profile",
             "prorate" : "90%"
-        },"j.236K" : {
-            "name" : "Sultry Performance",
+        },"j.236K (Sultry Performance)" : {
             "damage" : "35[50]",
             "guard" : "All",
             "startup" : "10",
@@ -309,8 +306,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.236S" : {
-            "name" : "Sultry Performance",
+        },"j.236S (Sultry Performance)" : {
             "damage" : "35[50]",
             "guard" : "All",
             "startup" : "10",
@@ -324,8 +320,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.236H" : {
-            "name" : "Sultry Performance",
+        },"j.236H (Sultry Performance)" : {
             "damage" : "10×2,20[10×4,20]",
             "guard" : "All",
             "startup" : "9",
@@ -339,8 +334,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"214P" : {
-            "name" : "Antidepressant Scale",
+        },"214P (Antidepressant Scale)" : {
             "damage" : "12+[9×4]",
             "guard" : "All",
             "startup" : "29",
@@ -354,8 +348,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.214P" : {
-            "name" : "Antidepressant Scale",
+        },"j.214P (Antidepressant Scale)" : {
             "damage" : "12+[9×4]",
             "guard" : "All",
             "startup" : "28",
@@ -369,8 +362,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "80%"
-        },"214K" : {
-            "name" : "Chemical Love",
+        },"214K (Chemical Love)" : {
             "damage" : "45",
             "guard" : "All",
             "startup" : "11",
@@ -384,8 +376,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.214K" : {
-            "name" : "Chemical Love",
+        },"j.214K (Chemical Love)" : {
             "damage" : "45",
             "guard" : "All",
             "startup" : "11",
@@ -399,8 +390,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "80%"
-        },"632146H" : {
-            "name" : "Megalomania",
+        },"632146H (Megalomania)" : {
             "damage" : "13×18 (17×11)",
             "guard" : "Ground Throw, All",
             "startup" : "11+0(41)",
@@ -414,8 +404,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"632146S" : {
-            "name" : "Ultimate Fortissimo",
+        },"632146S (Ultimate Fortissimo)" : {
             "damage" : "40,20×2,100",
             "guard" : "All (Guard Crush)",
             "startup" : "7+2",
@@ -429,8 +418,7 @@
             "counter" : "",
             "invuln" : "Full F1~11",
             "prorate" : "100%"
-        },"j.632146S" : {
-            "name" : "Ultimate Fortissimo",
+        },"j.632146S (Ultimate Fortissimo)" : {
             "damage" : "20×2,100",
             "guard" : "All (Guard Crush)",
             "startup" : "5+3",

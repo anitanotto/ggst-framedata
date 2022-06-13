@@ -292,8 +292,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"41236K" : {
-            "name" : "Thrust",
+        },"41236K (Thrust)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "26",
@@ -307,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"41236K 4" : {
-            "name" : "Pull Back",
+        },"41236K 4 (Pull Back)" : {
             "damage" : "0",
             "guard" : "",
             "startup" : "59",
@@ -322,8 +320,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"41236K 4 H" : {
-            "name" : "Home Run!",
+        },"41236K 4 H (Home Run!)" : {
             "damage" : "80 [120]",
             "guard" : "",
             "startup" : "9",
@@ -337,8 +334,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"236P" : {
-            "name" : "What Could This Be?",
+        },"236P (What Could This Be?)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "26",
@@ -352,8 +348,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"236S" : {
-            "name" : "Mix Mix Mix",
+        },"236S (Mix Mix Mix)" : {
             "damage" : "13×4",
             "guard" : "All",
             "startup" : "21",
@@ -367,8 +362,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.236S" : {
-            "name" : "Mix Mix Mix",
+        },"j.236S (Mix Mix Mix)" : {
             "damage" : "13×4",
             "guard" : "All",
             "startup" : "21",
@@ -382,8 +376,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"236H" : {
-            "name" : "Snip Snip Snip",
+        },"236H (Snip Snip Snip)" : {
             "damage" : "70",
             "guard" : "Ground Throw",
             "startup" : "6",
@@ -397,8 +390,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
-        },"j.236P" : {
-            "name" : "Love",
+        },"j.236P (Love)" : {
             "damage" : "18, 27",
             "guard" : "All",
             "startup" : "27",
@@ -412,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.236P (With Afro)" : {
-            "name" : "Love",
+        },"j.236P (With Afro) (Love)" : {
             "damage" : "18, 41",
             "guard" : "All (Guard Crush)",
             "startup" : "27",
@@ -427,8 +418,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"214P" : {
-            "name" : "Scarecrow",
+        },"214P (Scarecrow)" : {
             "damage" : "28×2 [28×3]",
             "guard" : "All",
             "startup" : "54 [84]",
@@ -442,8 +432,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"214K" : {
-            "name" : "Scarecrow",
+        },"214K (Scarecrow)" : {
             "damage" : "28×2 [28×3]",
             "guard" : "All",
             "startup" : "54 [84]",
@@ -457,8 +446,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"214S" : {
-            "name" : "Scarecrow",
+        },"214S (Scarecrow)" : {
             "damage" : "50 [70]",
             "guard" : "High",
             "startup" : "50 [69]",
@@ -472,8 +460,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"632146H" : {
-            "name" : "Bone-crushing Excitement",
+        },"632146H (Bone-crushing Excitement)" : {
             "damage" : "50, 105",
             "guard" : "All",
             "startup" : "16+5",
@@ -487,8 +474,7 @@
             "counter" : "Small",
             "invuln" : "1~23 Full",
             "prorate" : "100%"
-        },"236236P" : {
-            "name" : "W-W-What Could This Be?",
+        },"236236P (W-W-What Could This Be?)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "1+7",
@@ -502,8 +488,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"236236236P" : {
-            "name" : "W-W-W-W-W-W-W-W-W-What Could This Be?",
+        },"236236236P (W-W-W-W-W-W-W-W-W-What Could This Be?)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "1+7",

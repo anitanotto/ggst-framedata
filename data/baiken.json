@@ -182,7 +182,7 @@
             "prorate" : "80%"
         },"j.D" : {
             "damage" : "53",
-            "guard" : "All",
+            "guard" : "High",
             "startup" : "12",
             "active" : "3",
             "recovery" : "26",
@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236K" : {
-            "name" : "Tatami Gaeshi",
+        },"236K (Tatami Gaeshi)" : {
             "damage" : "45,25",
             "guard" : "All",
             "startup" : "15",
@@ -293,8 +292,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%"
-        },"j.236K" : {
-            "name" : "Tatami Gaeshi",
+        },"j.236K (Tatami Gaeshi)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "20",
@@ -308,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"41236S" : {
-            "name" : "Kabari",
+        },"41236S (Kabari)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "31",
@@ -323,8 +320,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"41236H" : {
-            "name" : "Kabari",
+        },"41236H (Kabari)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "18",
@@ -338,8 +334,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"41236H~H" : {
-            "name" : "Kabari Followup",
+        },"41236H~H (Kabari Followup)" : {
             "damage" : "48",
             "guard" : "All",
             "startup" : "11 [23]",
@@ -353,8 +348,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.236S" : {
-            "name" : "Youzansen",
+        },"j.236S (Youzansen)" : {
             "damage" : "50",
             "guard" : "High",
             "startup" : "9",
@@ -368,8 +362,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"236P" : {
-            "name" : "Hiiragi",
+        },"236P (Hiiragi)" : {
             "damage" : "130",
             "guard" : "",
             "startup" : "1",
@@ -383,8 +376,7 @@
             "counter" : "",
             "invuln" : "F1~6 Strike",
             "prorate" : "50%"
-        },"236236S" : {
-            "name" : "Tsurane Sanzu-watashi",
+        },"236236S (Tsurane Sanzu-watashi)" : {
             "damage" : "45×2, 100, [45×2, 60]",
             "guard" : "All",
             "startup" : "8+1",
@@ -398,8 +390,7 @@
             "counter" : "Mid",
             "invuln" : "1~10 Full",
             "prorate" : "100%"
-        },"214214P" : {
-            "name" : "Kenjyu",
+        },"214214P (Kenjyu)" : {
             "damage" : "110",
             "guard" : "All (Guard Crush)",
             "startup" : "8+3",
@@ -413,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : ""
-        },"j.214214P" : {
-            "name" : "Kenjyu",
+        },"j.214214P (Kenjyu)" : {
             "damage" : "110",
             "guard" : "All (Guard Crush)",
             "startup" : "11+3",

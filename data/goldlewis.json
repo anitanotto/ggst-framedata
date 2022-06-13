@@ -264,8 +264,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "80%"
-        },"41236H" : {
-            "name" : "Behemoth Typhoon",
+        },"41236H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All (Guard Crush)",
             "startup" : "12",
@@ -279,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"j.41236H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.41236H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -294,8 +292,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"63214H" : {
-            "name" : "Behemoth Typhoon",
+        },"63214H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All (Guard Crush)",
             "startup" : "12",
@@ -309,8 +306,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"j.63214H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.63214H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -324,8 +320,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"23698H" : {
-            "name" : "Behemoth Typhoon",
+        },"23698H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All (Guard Crush)",
             "startup" : "12",
@@ -339,8 +334,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"j.23698H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.23698H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -354,8 +348,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"21478H" : {
-            "name" : "Behemoth Typhoon",
+        },"21478H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "Low (Guard Crush)",
             "startup" : "12",
@@ -369,8 +362,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "90%"
-        },"j.21478H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.21478H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -384,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"69874H" : {
-            "name" : "Behemoth Typhoon",
+        },"69874H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All* (Guard Crush)",
             "startup" : "12",
@@ -399,8 +390,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "80%"
-        },"j.69874H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.69874H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -414,8 +404,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"47896H" : {
-            "name" : "Behemoth Typhoon",
+        },"47896H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "High (Guard Crush)",
             "startup" : "12",
@@ -429,8 +418,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"j.47896H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.47896H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -444,8 +432,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"87412H" : {
-            "name" : "Behemoth Typhoon",
+        },"87412H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "Low (Guard Crush)",
             "startup" : "12",
@@ -459,8 +446,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "90%"
-        },"j.87412H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.87412H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -474,8 +460,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"89632H" : {
-            "name" : "Behemoth Typhoon",
+        },"89632H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "High (Guard Crush)",
             "startup" : "12",
@@ -489,8 +474,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "80%"
-        },"j.89632H" : {
-            "name" : "Behemoth Typhoon",
+        },"j.89632H (Behemoth Typhoon)" : {
             "damage" : "70",
             "guard" : "All",
             "startup" : "12",
@@ -504,8 +488,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"214S Level 1" : {
-            "name" : "Thunderbird",
+        },"214S Level 1 (Thunderbird)" : {
             "damage" : "10, 30",
             "guard" : "All",
             "startup" : "57",
@@ -519,8 +502,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"214S Level 2" : {
-            "name" : "Thunderbird",
+        },"214S Level 2 (Thunderbird)" : {
             "damage" : "10×2, 30",
             "guard" : "All",
             "startup" : "57",
@@ -534,8 +516,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"214S Level 3" : {
-            "name" : "Thunderbird",
+        },"214S Level 3 (Thunderbird)" : {
             "damage" : "10×3, 30",
             "guard" : "All",
             "startup" : "57",
@@ -549,8 +530,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"236S Level 1" : {
-            "name" : "Skyfish",
+        },"236S Level 1 (Skyfish)" : {
             "damage" : "5×10",
             "guard" : "All",
             "startup" : "35",
@@ -564,8 +544,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"236S Level 2" : {
-            "name" : "Skyfish",
+        },"236S Level 2 (Skyfish)" : {
             "damage" : "5×20",
             "guard" : "All",
             "startup" : "30",
@@ -579,8 +558,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"236S Level 3" : {
-            "name" : "Skyfish",
+        },"236S Level 3 (Skyfish)" : {
             "damage" : "5×30",
             "guard" : "All",
             "startup" : "25",
@@ -594,8 +572,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"632146P" : {
-            "name" : "Down With The System",
+        },"632146P (Down With The System)" : {
             "damage" : "160 [160,25]",
             "guard" : "All",
             "startup" : "6+(135 Flash)+4",
@@ -609,8 +586,7 @@
             "counter" : "Mid",
             "invuln" : "1~14 All",
             "prorate" : "100%"
-        },"720P" : {
-            "name" : "Down With The System",
+        },"720P (Down With The System)" : {
             "damage" : "175 [160,25×2]",
             "guard" : "All",
             "startup" : "11+(191 Flash)+4",
@@ -624,8 +600,7 @@
             "counter" : "Mid",
             "invuln" : "1~19 All",
             "prorate" : "100%"
-        },"1080P" : {
-            "name" : "Down With The System",
+        },"1080P (Down With The System)" : {
             "damage" : "190 [160,25×3]",
             "guard" : "All",
             "startup" : "16+(230 Flash)+4",
@@ -639,8 +614,7 @@
             "counter" : "Mid",
             "invuln" : "1~24 All",
             "prorate" : "100%"
-        },"236236K Level 1" : {
-            "name" : "Burn It Down",
+        },"236236K Level 1 (Burn It Down)" : {
             "damage" : "8×5",
             "guard" : "All",
             "startup" : "13+(84 Flash)+79",
@@ -654,8 +628,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : ""
-        },"236236K Level 2" : {
-            "name" : "Burn It Down",
+        },"236236K Level 2 (Burn It Down)" : {
             "damage" : "8×10",
             "guard" : "All",
             "startup" : "13+(84 Flash)+79",
@@ -669,8 +642,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : ""
-        },"236236K Level 3" : {
-            "name" : "Burn It Down",
+        },"236236K Level 3 (Burn It Down)" : {
             "damage" : "8×15",
             "guard" : "All",
             "startup" : "13+(84 Flash)+79",

@@ -292,8 +292,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "80%"
-        },"[4]6S" : {
-            "name" : "Graviert Wurde",
+        },"[4]6S (Graviert Wurde)" : {
             "damage" : "20×2",
             "guard" : "All",
             "startup" : "10",
@@ -307,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"[4]6H" : {
-            "name" : "Graviert Wurde",
+        },"[4]6H (Graviert Wurde)" : {
             "damage" : "16×4",
             "guard" : "All",
             "startup" : "23",
@@ -322,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"[2]8S" : {
-            "name" : "Eisen Sturm",
+        },"[2]8S (Eisen Sturm)" : {
             "damage" : "28,25",
             "guard" : "All",
             "startup" : "9",
@@ -337,8 +334,7 @@
             "counter" : "Large",
             "invuln" : "1-9",
             "prorate" : "80%"
-        },"[2]8H" : {
-            "name" : "Eisen Sturm",
+        },"[2]8H (Eisen Sturm)" : {
             "damage" : "28,25,28",
             "guard" : "All",
             "startup" : "10",
@@ -352,8 +348,7 @@
             "counter" : "Large",
             "invuln" : "1-10",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Kaltes Gestöber Erst",
+        },"236S (Kaltes Gestöber Erst)" : {
             "damage" : "37",
             "guard" : "All",
             "startup" : "12",
@@ -367,8 +362,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236H" : {
-            "name" : "Kaltes Gestöber Zweit",
+        },"236H (Kaltes Gestöber Zweit)" : {
             "damage" : "41",
             "guard" : "All",
             "startup" : "23 [25]",
@@ -382,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"214S" : {
-            "name" : "Turbulenz",
+        },"214S (Turbulenz)" : {
             "damage" : "55",
             "guard" : "All",
             "startup" : "21",
@@ -397,8 +390,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "90%"
-        },"bt.214K" : {
-            "name" : "Gländzendes Dunkel",
+        },"bt.214K (Gländzendes Dunkel)" : {
             "damage" : "115",
             "guard" : "Ground Throw",
             "startup" : "30",
@@ -412,8 +404,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
-        },"bt.214H" : {
-            "name" : "Blitzschlag",
+        },"bt.214H (Blitzschlag)" : {
             "damage" : "65",
             "guard" : "Guard Break",
             "startup" : "29",
@@ -427,8 +418,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "90%"
-        },"632146S" : {
-            "name" : "Stahl Wirbel",
+        },"632146S (Stahl Wirbel)" : {
             "damage" : "170",
             "guard" : "All",
             "startup" : "4+1",
@@ -442,8 +432,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "65%"
-        },"632146H" : {
-            "name" : "Liedenschaft des Dirigenten",
+        },"632146H (Liedenschaft des Dirigenten)" : {
             "damage" : "20×4,50",
             "guard" : "All",
             "startup" : "10+1",
@@ -457,8 +446,7 @@
             "counter" : "Mid",
             "invuln" : "1-18",
             "prorate" : "90%"
-        },"6D or 4D" : {
-            "name" : "Ground Throw",
+        },"6D or 4D (Ground Throw)" : {
             "damage" : "80",
             "guard" : "Ground Throw",
             "startup" : "2",
@@ -472,8 +460,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
-        },"j.6D or j.4D" : {
-            "name" : "Air Throw",
+        },"j.6D or j.4D (Air Throw)" : {
             "damage" : "80",
             "guard" : "Air Throw",
             "startup" : "2",
@@ -487,8 +474,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
-        },"66" : {
-            "name" : "Dash Cancel",
+        },"66 (Dash Cancel)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "",
@@ -502,8 +488,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"bt.P" : {
-            "name" : "",
+        },"bt.P ()" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "7",
@@ -517,8 +502,7 @@
             "counter" : "Mid",
             "invuln" : "1-10 Upper Body",
             "prorate" : "90%"
-        },"bt.K" : {
-            "name" : "",
+        },"bt.K ()" : {
             "damage" : "24",
             "guard" : "Low",
             "startup" : "5",
@@ -532,8 +516,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "70%"
-        },"bt.S" : {
-            "name" : "",
+        },"bt.S ()" : {
             "damage" : "28",
             "guard" : "All",
             "startup" : "6",
@@ -547,8 +530,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"bt.H" : {
-            "name" : "",
+        },"bt.H ()" : {
             "damage" : "42",
             "guard" : "High",
             "startup" : "18",
@@ -562,8 +544,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"bt.D" : {
-            "name" : "Kahn Schild",
+        },"bt.D (Kahn Schild)" : {
             "damage" : "74",
             "guard" : "All",
             "startup" : "3",
@@ -577,8 +558,7 @@
             "counter" : "",
             "invuln" : "1-2 Strike/Projectile 3-19 Parry",
             "prorate" : "50%"
-        },"bt.22" : {
-            "name" : "Brynhildr Cancel",
+        },"bt.22 (Brynhildr Cancel)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "-",

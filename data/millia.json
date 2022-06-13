@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "None",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Tandem Top",
+        },"236S (Tandem Top)" : {
             "damage" : "35",
             "guard" : "All",
             "startup" : "12",
@@ -293,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "9-41F Airborne, 42-45F Below Knee",
             "prorate" : "80%"
-        },"236H" : {
-            "name" : "Tandem Top",
+        },"236H (Tandem Top)" : {
             "damage" : "32×2",
             "guard" : "All",
             "startup" : "73",
@@ -308,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "18F onwards Airborne",
             "prorate" : "80%"
-        },"214S" : {
-            "name" : "Lust Shaker",
+        },"214S (Lust Shaker)" : {
             "damage" : "7×3~9",
             "guard" : "All",
             "startup" : "17",
@@ -323,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "None",
             "prorate" : "100%"
-        },"214P" : {
-            "name" : "Iron Savior",
+        },"214P (Iron Savior)" : {
             "damage" : "43",
             "guard" : "Low",
             "startup" : "20",
@@ -338,8 +334,7 @@
             "counter" : "Mid",
             "invuln" : "10F onwards Airborne",
             "prorate" : "90%"
-        },"j.236P" : {
-            "name" : "Bad Moon",
+        },"j.236P (Bad Moon)" : {
             "damage" : "5*N,31",
             "guard" : "High",
             "startup" : "11",
@@ -353,8 +348,7 @@
             "counter" : "Small",
             "invuln" : "None",
             "prorate" : "80%"
-        },"j.236K" : {
-            "name" : "Turbo Fall",
+        },"j.236K (Turbo Fall)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "14",
@@ -368,8 +362,7 @@
             "counter" : "",
             "invuln" : "None",
             "prorate" : ""
-        },"214K" : {
-            "name" : "Mirazh",
+        },"214K (Mirazh)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -383,8 +376,7 @@
             "counter" : "",
             "invuln" : "1-3F Upper Body, 4-24F Above Knee",
             "prorate" : ""
-        },"j.236H" : {
-            "name" : "Kapel",
+        },"j.236H (Kapel)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "13",
@@ -398,8 +390,7 @@
             "counter" : "Small",
             "invuln" : "1-12F Lower Body",
             "prorate" : "80%"
-        },"236236S" : {
-            "name" : "Septem Voices",
+        },"236236S (Septem Voices)" : {
             "damage" : "20×2,60",
             "guard" : "All",
             "startup" : "4+5",
@@ -413,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "9-26F Airborne",
             "prorate" : "100%"
-        },"632146H" : {
-            "name" : "Winger",
+        },"632146H (Winger)" : {
             "damage" : "20×5,60",
             "guard" : "All",
             "startup" : "8+1",

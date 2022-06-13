@@ -292,8 +292,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236P" : {
-            "name" : "Alpha Blade (Horizontal)",
+        },"236P (Alpha Blade (Horizontal))" : {
             "damage" : "38",
             "guard" : "All",
             "startup" : "29",
@@ -307,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.236P" : {
-            "name" : "Alpha Blade (Horizontal)",
+        },"j.236P (Alpha Blade (Horizontal))" : {
             "damage" : "38",
             "guard" : "All",
             "startup" : "29",
@@ -322,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "Alpha Blade (Diagonal)",
+        },"236K (Alpha Blade (Diagonal))" : {
             "damage" : "36",
             "guard" : "All",
             "startup" : "27",
@@ -337,8 +334,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.236K" : {
-            "name" : "Alpha Blade (Diagonal)",
+        },"j.236K (Alpha Blade (Diagonal))" : {
             "damage" : "35",
             "guard" : "All",
             "startup" : "32~47",
@@ -352,8 +348,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"623S" : {
-            "name" : "Beta Blade",
+        },"623S (Beta Blade)" : {
             "damage" : "30, 26",
             "guard" : "All",
             "startup" : "9",
@@ -367,8 +362,7 @@
             "counter" : "Large",
             "invuln" : "1~8 Strike",
             "prorate" : "80%"
-        },"j.623S" : {
-            "name" : "Beta Blade",
+        },"j.623S (Beta Blade)" : {
             "damage" : "30, 26",
             "guard" : "All",
             "startup" : "9",
@@ -382,8 +376,7 @@
             "counter" : "Large",
             "invuln" : "1~8 Strike",
             "prorate" : "80%"
-        },"236H" : {
-            "name" : "Gamma Blade",
+        },"236H (Gamma Blade)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "25",
@@ -397,8 +390,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Resshou",
+        },"236S (Resshou)" : {
             "damage" : "28",
             "guard" : "All",
             "startup" : "13",
@@ -412,8 +404,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236S 236S" : {
-            "name" : "Rokusai",
+        },"236S 236S (Rokusai)" : {
             "damage" : "35",
             "guard" : "Low",
             "startup" : "8",
@@ -427,8 +418,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"236S 236K" : {
-            "name" : "Senshuu",
+        },"236S 236K (Senshuu)" : {
             "damage" : "40",
             "guard" : "High",
             "startup" : "25",
@@ -442,8 +432,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "80%"
-        },"63214S" : {
-            "name" : "Genrouzan",
+        },"63214S (Genrouzan)" : {
             "damage" : "20,20,67",
             "guard" : "Throw",
             "startup" : "27",
@@ -457,8 +446,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "50%"
-        },"j.214P" : {
-            "name" : "Shuriken",
+        },"j.214P (Shuriken)" : {
             "damage" : "10",
             "guard" : "All",
             "startup" : "22",
@@ -472,8 +460,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236236K" : {
-            "name" : "Banki Messai",
+        },"236236K (Banki Messai)" : {
             "damage" : "15×5, 9×3, 30",
             "guard" : "All",
             "startup" : "6+1",
@@ -487,8 +474,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"632146H" : {
-            "name" : "Zansei Rouga",
+        },"632146H (Zansei Rouga)" : {
             "damage" : "10×4, 135",
             "guard" : "All",
             "startup" : "20+1",
@@ -502,8 +488,7 @@
             "counter" : "Small",
             "invuln" : "6~22 Full",
             "prorate" : "100%"
-        },"j.632146H" : {
-            "name" : "Zansei Rouga",
+        },"j.632146H (Zansei Rouga)" : {
             "damage" : "10×4, 135",
             "guard" : "All",
             "startup" : "13+1",

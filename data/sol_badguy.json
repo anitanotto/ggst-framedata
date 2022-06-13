@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236P" : {
-            "name" : "Gun Flame",
+        },"236P (Gun Flame)" : {
             "damage" : "40→35→30→30",
             "guard" : "All",
             "startup" : "20",
@@ -293,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"214P" : {
-            "name" : "Gun Flame (Feint)",
+        },"214P (Gun Flame (Feint))" : {
             "damage" : "",
             "guard" : "",
             "startup" : "",
@@ -308,8 +306,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"623S" : {
-            "name" : "Volcanic Viper",
+        },"623S (Volcanic Viper)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "9",
@@ -323,8 +320,7 @@
             "counter" : "Mid",
             "invuln" : "1~11F Strike",
             "prorate" : "80%"
-        },"623H" : {
-            "name" : "Volcanic Viper",
+        },"623H (Volcanic Viper)" : {
             "damage" : "35, 40 [35, 100]",
             "guard" : "All",
             "startup" : "13",
@@ -338,8 +334,7 @@
             "counter" : "Large, Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
-        },"j.623S" : {
-            "name" : "Volcanic Viper",
+        },"j.623S (Volcanic Viper)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "9",
@@ -353,8 +348,7 @@
             "counter" : "Mid",
             "invuln" : "1~10F Strike",
             "prorate" : "80%"
-        },"j.623H" : {
-            "name" : "Volcanic Viper",
+        },"j.623H (Volcanic Viper)" : {
             "damage" : "35, 40 [35, 100]",
             "guard" : "All",
             "startup" : "13",
@@ -368,8 +362,7 @@
             "counter" : "Large, Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "Bandit Revolver",
+        },"236K (Bandit Revolver)" : {
             "damage" : "20",
             "guard" : "All",
             "startup" : "12",
@@ -383,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"236KK" : {
-            "name" : "Bandit Revolver",
+        },"236KK (Bandit Revolver)" : {
             "damage" : "25",
             "guard" : "All",
             "startup" : "6",
@@ -398,8 +390,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"j.236K" : {
-            "name" : "Bandit Revolver",
+        },"j.236K (Bandit Revolver)" : {
             "damage" : "20",
             "guard" : "All",
             "startup" : "10",
@@ -413,8 +404,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"j.236KK" : {
-            "name" : "Bandit Revolver",
+        },"j.236KK (Bandit Revolver)" : {
             "damage" : "25",
             "guard" : "All",
             "startup" : "6",
@@ -428,8 +418,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"214K" : {
-            "name" : "Bandit Bringer",
+        },"214K (Bandit Bringer)" : {
             "damage" : "50",
             "guard" : "High",
             "startup" : "30",
@@ -443,8 +432,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.214K" : {
-            "name" : "Bandit Bringer",
+        },"j.214K (Bandit Bringer)" : {
             "damage" : "40",
             "guard" : "High",
             "startup" : "22~30",
@@ -458,8 +446,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"623K" : {
-            "name" : "Wild Throw",
+        },"623K (Wild Throw)" : {
             "damage" : "120",
             "guard" : "Ground Throw: 120000",
             "startup" : "6",
@@ -473,8 +460,7 @@
             "counter" : "",
             "invuln" : "1~7F Throw",
             "prorate" : "Forced 50%"
-        },"214S" : {
-            "name" : "Night Raid Vortex",
+        },"214S (Night Raid Vortex)" : {
             "damage" : "45 [55]",
             "guard" : "All",
             "startup" : "15~31 [32]",
@@ -488,8 +474,7 @@
             "counter" : "Large",
             "invuln" : "7F til 1F before active Low Profile",
             "prorate" : "90%"
-        },"41236H" : {
-            "name" : "Fafnir",
+        },"41236H (Fafnir)" : {
             "damage" : "65",
             "guard" : "All (Guard Crush)",
             "startup" : "24",
@@ -503,8 +488,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"632146H" : {
-            "name" : "Tyrant Rave",
+        },"632146H (Tyrant Rave)" : {
             "damage" : "70, 100 [70, 130]",
             "guard" : "All",
             "startup" : "7+2",
@@ -518,8 +502,7 @@
             "counter" : "Mid, Small",
             "invuln" : "1~8F Full",
             "prorate" : "100%"
-        },"214214H" : {
-            "name" : "Heavy Mob Cemetery",
+        },"214214H (Heavy Mob Cemetery)" : {
             "damage" : "40, 161",
             "guard" : "Ground Throw: 150000",
             "startup" : "13+7",

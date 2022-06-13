@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"22H" : {
-            "name" : "Invite Hell",
+        },"22H (Invite Hell)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "18",
@@ -293,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"]P[" : {
-            "name" : "Pierce",
+        },"]P[ (Pierce)" : {
             "damage" : "20×2",
             "guard" : "All",
             "startup" : "13",
@@ -308,8 +306,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236P" : {
-            "name" : "Pierce",
+        },"236P (Pierce)" : {
             "damage" : "20×2",
             "guard" : "All",
             "startup" : "21 {25}",
@@ -323,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"]K[" : {
-            "name" : "That's a lot",
+        },"]K[ (That's a lot)" : {
             "damage" : "20×4",
             "guard" : "All",
             "startup" : "19",
@@ -338,8 +334,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "That's a lot",
+        },"236K (That's a lot)" : {
             "damage" : "20×4",
             "guard" : "All",
             "startup" : "27 {31}",
@@ -353,8 +348,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"]S[" : {
-            "name" : "Leap",
+        },"]S[ (Leap)" : {
             "damage" : "20, 40",
             "guard" : "All",
             "startup" : "13",
@@ -368,8 +362,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Leap",
+        },"236S (Leap)" : {
             "damage" : "20, 40",
             "guard" : "All",
             "startup" : "21 {25}",
@@ -383,8 +376,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"]H[" : {
-            "name" : "Oppose",
+        },"]H[ (Oppose)" : {
             "damage" : "30×3",
             "guard" : "All",
             "startup" : "66",
@@ -398,8 +390,7 @@
             "counter" : "Small",
             "invuln" : "8~59 Guardpoint",
             "prorate" : "80%"
-        },"236H" : {
-            "name" : "Oppose",
+        },"236H (Oppose)" : {
             "damage" : "30×3",
             "guard" : "All",
             "startup" : "74 {78}",
@@ -413,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "16~67 {20~71} Guardpoint",
             "prorate" : "80%"
-        },"623S" : {
-            "name" : "Damned Fang",
+        },"623S (Damned Fang)" : {
             "damage" : "1x13, 89",
             "guard" : "Ground Throw",
             "startup" : "6",
@@ -428,8 +418,7 @@
             "counter" : "",
             "invuln" : "1~5 Throw",
             "prorate" : "50%"
-        },"214[K]" : {
-            "name" : "Break The Law",
+        },"214[K] (Break The Law)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "28 Total (Max 95)",
@@ -443,8 +432,7 @@
             "counter" : "",
             "invuln" : "13~[71] Full, 14~21~[77] Strike",
             "prorate" : ""
-        },"214S" : {
-            "name" : "Drunkard Shade",
+        },"214S (Drunkard Shade)" : {
             "damage" : "31",
             "guard" : "All",
             "startup" : "9",
@@ -458,8 +446,7 @@
             "counter" : "Mid",
             "invuln" : "3~18 Reflect",
             "prorate" : "100%"
-        },"214S (Dash)" : {
-            "name" : "Eddie Dash",
+        },"214S (Dash) (Eddie Dash)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "30 Total",
@@ -473,8 +460,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214H" : {
-            "name" : "Summon Eddie",
+        },"214H (Summon Eddie)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "21",
@@ -488,8 +474,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214H" : {
-            "name" : "Unsummon Eddie",
+        },"214H (Unsummon Eddie)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "",
@@ -503,8 +488,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"632146H" : {
-            "name" : "Amorphous",
+        },"632146H (Amorphous)" : {
             "damage" : "150",
             "guard" : "All",
             "startup" : "8+8",
@@ -518,8 +502,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"632146S" : {
-            "name" : "Sun Void",
+        },"632146S (Sun Void)" : {
             "damage" : "20×3",
             "guard" : "All",
             "startup" : "11+14",
@@ -533,8 +516,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.632146S" : {
-            "name" : "Sun Void",
+        },"j.632146S (Sun Void)" : {
             "damage" : "20×3",
             "guard" : "All",
             "startup" : "11+14",

@@ -264,8 +264,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"N/A" : {
-            "name" : "Stain",
+        },"N/A (Stain)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "",
@@ -279,8 +278,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Grave Reaper",
+        },"236S (Grave Reaper)" : {
             "damage" : "43, 31",
             "guard" : "All",
             "startup" : "16~22",
@@ -294,8 +292,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"236H" : {
-            "name" : "Grave Reaper",
+        },"236H (Grave Reaper)" : {
             "damage" : "43, 31",
             "guard" : "All",
             "startup" : "13~19",
@@ -309,8 +306,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"236{S}" : {
-            "name" : "Grave Reaper",
+        },"236{S} (Grave Reaper)" : {
             "damage" : "48, 36",
             "guard" : "All",
             "startup" : "23~29",
@@ -324,8 +320,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"236{H}" : {
-            "name" : "Grave Reaper",
+        },"236{H} (Grave Reaper)" : {
             "damage" : "48, 36",
             "guard" : "All",
             "startup" : "20~26",
@@ -339,8 +334,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"236[S]" : {
-            "name" : "Grave Reaper",
+        },"236[S] (Grave Reaper)" : {
             "damage" : "53, 41",
             "guard" : "All",
             "startup" : "30~36",
@@ -354,8 +348,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"236[H]" : {
-            "name" : "Grave Reaper",
+        },"236[H] (Grave Reaper)" : {
             "damage" : "53, 41",
             "guard" : "All",
             "startup" : "27~33",
@@ -369,8 +362,7 @@
             "counter" : "Mid, Small",
             "invuln" : "",
             "prorate" : "90%, 80%"
-        },"214P" : {
-            "name" : "Unholy Diver",
+        },"214P (Unholy Diver)" : {
             "damage" : "23",
             "guard" : "All",
             "startup" : "21",
@@ -384,8 +376,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"214K" : {
-            "name" : "Possession",
+        },"214K (Possession)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "16",
@@ -399,8 +390,7 @@
             "counter" : "",
             "invuln" : "16~25",
             "prorate" : ""
-        },"214S" : {
-            "name" : "Arbiter Sign",
+        },"214S (Arbiter Sign)" : {
             "damage" : "63",
             "guard" : "Low",
             "startup" : "24",
@@ -414,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "90%"
-        },"214H" : {
-            "name" : "Arbiter Sign",
+        },"214H (Arbiter Sign)" : {
             "damage" : "63",
             "guard" : "High",
             "startup" : "28",
@@ -429,8 +418,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236236P" : {
-            "name" : "Nostrovia",
+        },"236236P (Nostrovia)" : {
             "damage" : "20×2, 57",
             "guard" : "All",
             "startup" : "11+19",
@@ -444,8 +432,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"236236K" : {
-            "name" : "Calamity One",
+        },"236236K (Calamity One)" : {
             "damage" : "143",
             "guard" : "All",
             "startup" : "11+4",

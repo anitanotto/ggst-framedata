@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"236S" : {
-            "name" : "Stun Edge",
+        },"236S (Stun Edge)" : {
             "damage" : "30 [33]",
             "guard" : "All",
             "startup" : "13",
@@ -293,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"DI 236S" : {
-            "name" : "Stun Edge",
+        },"DI 236S (Stun Edge)" : {
             "damage" : "30×2",
             "guard" : "All",
             "startup" : "13",
@@ -308,8 +306,7 @@
             "counter" : "Small×2",
             "invuln" : "none",
             "prorate" : "80%"
-        },"236H" : {
-            "name" : "Charged Stun Edge",
+        },"236H (Charged Stun Edge)" : {
             "damage" : "20×3 [22×3]",
             "guard" : "All",
             "startup" : "39",
@@ -323,8 +320,7 @@
             "counter" : "Small×3",
             "invuln" : "none",
             "prorate" : "80%"
-        },"DI 236H" : {
-            "name" : "Charged Stun Edge",
+        },"DI 236H (Charged Stun Edge)" : {
             "damage" : "17×5",
             "guard" : "All",
             "startup" : "39",
@@ -338,8 +334,7 @@
             "counter" : "Small×5",
             "invuln" : "none",
             "prorate" : "80%"
-        },"j.236S" : {
-            "name" : "Aerial Stun Edge",
+        },"j.236S (Aerial Stun Edge)" : {
             "damage" : "30 [33]",
             "guard" : "All",
             "startup" : "21",
@@ -353,8 +348,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"DI j.236S" : {
-            "name" : "Aerial Stun Edge",
+        },"DI j.236S (Aerial Stun Edge)" : {
             "damage" : "30×2",
             "guard" : "All",
             "startup" : "21",
@@ -368,8 +362,7 @@
             "counter" : "Small×2",
             "invuln" : "none",
             "prorate" : "80%"
-        },"j.236H" : {
-            "name" : "Aerial Stun Edge",
+        },"j.236H (Aerial Stun Edge)" : {
             "damage" : "30 [33]",
             "guard" : "All",
             "startup" : "21",
@@ -383,8 +376,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"DI j.236H" : {
-            "name" : "Aerial Stun Edge",
+        },"DI j.236H (Aerial Stun Edge)" : {
             "damage" : "30×2",
             "guard" : "All",
             "startup" : "21",
@@ -398,8 +390,7 @@
             "counter" : "Small×2",
             "invuln" : "none",
             "prorate" : "80%"
-        },"623S" : {
-            "name" : "Vapor Thrust",
+        },"623S (Vapor Thrust)" : {
             "damage" : "48 [52]",
             "guard" : "All",
             "startup" : "11",
@@ -413,8 +404,7 @@
             "counter" : "Mid",
             "invuln" : "1-14f Strike",
             "prorate" : "80%"
-        },"DI 623S" : {
-            "name" : "Vapor Thrust",
+        },"DI 623S (Vapor Thrust)" : {
             "damage" : "30×2",
             "guard" : "All",
             "startup" : "11",
@@ -428,8 +418,7 @@
             "counter" : "Mid×2",
             "invuln" : "1-14f Strike",
             "prorate" : "80%"
-        },"623H" : {
-            "name" : "Vapor Thrust",
+        },"623H (Vapor Thrust)" : {
             "damage" : "60 [66]",
             "guard" : "All",
             "startup" : "13",
@@ -443,8 +432,7 @@
             "counter" : "Mid",
             "invuln" : "1-16f Strike",
             "prorate" : "80%"
-        },"DI 623H" : {
-            "name" : "Vapor Thrust",
+        },"DI 623H (Vapor Thrust)" : {
             "damage" : "25×3",
             "guard" : "All",
             "startup" : "13",
@@ -458,8 +446,7 @@
             "counter" : "Large×3",
             "invuln" : "1-18f Strike",
             "prorate" : "80%"
-        },"j.623S" : {
-            "name" : "Vapor Thrust",
+        },"j.623S (Vapor Thrust)" : {
             "damage" : "48 [52]",
             "guard" : "All",
             "startup" : "11",
@@ -473,8 +460,7 @@
             "counter" : "Mid",
             "invuln" : "1-14f Strike",
             "prorate" : "80%"
-        },"DI j.623S" : {
-            "name" : "Vapor Thrust",
+        },"DI j.623S (Vapor Thrust)" : {
             "damage" : "30×2",
             "guard" : "All",
             "startup" : "11",
@@ -488,8 +474,7 @@
             "counter" : "Large×2",
             "invuln" : "1-14f Strike",
             "prorate" : "80%"
-        },"j.623H" : {
-            "name" : "Vapor Thrust",
+        },"j.623H (Vapor Thrust)" : {
             "damage" : "60 [66]",
             "guard" : "All",
             "startup" : "13",
@@ -503,8 +488,7 @@
             "counter" : "Mid",
             "invuln" : "1-16f Strike",
             "prorate" : "80%"
-        },"DI j.623H" : {
-            "name" : "Vapor Thrust",
+        },"DI j.623H (Vapor Thrust)" : {
             "damage" : "25×3",
             "guard" : "All",
             "startup" : "13",
@@ -518,8 +502,7 @@
             "counter" : "Large×3",
             "invuln" : "1-18f Strike",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "Stun Dipper",
+        },"236K (Stun Dipper)" : {
             "damage" : "20×2 [20, 22]",
             "guard" : "Low, All",
             "startup" : "5",
@@ -533,8 +516,7 @@
             "counter" : "Small×2",
             "invuln" : "1-4f Upper Body, 5-16f Above Knees",
             "prorate" : "90%"
-        },"DI 236K" : {
-            "name" : "Stun Dipper",
+        },"DI 236K (Stun Dipper)" : {
             "damage" : "20, 26×2",
             "guard" : "Low, All",
             "startup" : "5",
@@ -548,8 +530,7 @@
             "counter" : "Small×3",
             "invuln" : "1-4f Upper Body, 5-16f Above Knees",
             "prorate" : "90%"
-        },"214K" : {
-            "name" : "Foudre Arc",
+        },"214K (Foudre Arc)" : {
             "damage" : "40 [44]",
             "guard" : "All",
             "startup" : "24",
@@ -563,8 +544,7 @@
             "counter" : "Mid",
             "invuln" : "8-11f Foot, 12-28f Below Waist",
             "prorate" : "90%"
-        },"DI 214K" : {
-            "name" : "Foudre Arc",
+        },"DI 214K (Foudre Arc)" : {
             "damage" : "16, 24×2",
             "guard" : "All",
             "startup" : "24",
@@ -578,8 +558,7 @@
             "counter" : "Large×3",
             "invuln" : "8-11f Foot, 12-28f Below Waist",
             "prorate" : "100%"
-        },"214S" : {
-            "name" : "Dire Eclat",
+        },"214S (Dire Eclat)" : {
             "damage" : "40 [44]",
             "guard" : "All",
             "startup" : "14",
@@ -593,8 +572,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"DI 214S" : {
-            "name" : "Dire Eclat",
+        },"DI 214S (Dire Eclat)" : {
             "damage" : "20×3",
             "guard" : "All",
             "startup" : "14",
@@ -608,8 +586,7 @@
             "counter" : "Large",
             "invuln" : "none",
             "prorate" : "100%"
-        },"632146H" : {
-            "name" : "Ride the Lightning",
+        },"632146H (Ride the Lightning)" : {
             "damage" : "21×4, 50 [22×4, 60]",
             "guard" : "All",
             "startup" : "8+1",
@@ -623,8 +600,7 @@
             "counter" : "Mid",
             "invuln" : "1-10f All",
             "prorate" : "100%"
-        },"DI 632146H" : {
-            "name" : "Ride the Lightning",
+        },"DI 632146H (Ride the Lightning)" : {
             "damage" : "10×8, 30×3",
             "guard" : "All",
             "startup" : "8+1",
@@ -638,8 +614,7 @@
             "counter" : "Mid",
             "invuln" : "1-15f All",
             "prorate" : "100%"
-        },"j.632146H" : {
-            "name" : "Ride the Lightning",
+        },"j.632146H (Ride the Lightning)" : {
             "damage" : "21×4, 50 [22×4, 60]",
             "guard" : "All",
             "startup" : "8+1",
@@ -653,8 +628,7 @@
             "counter" : "Mid",
             "invuln" : "1-10f All",
             "prorate" : "100%"
-        },"DI j.632146H" : {
-            "name" : "Ride the Lightning",
+        },"DI j.632146H (Ride the Lightning)" : {
             "damage" : "10×8, 30×3",
             "guard" : "All",
             "startup" : "8+1",
@@ -668,8 +642,7 @@
             "counter" : "Mid",
             "invuln" : "1-15f All",
             "prorate" : "100%"
-        },"236236P" : {
-            "name" : "Sacred Edge",
+        },"236236P (Sacred Edge)" : {
             "damage" : "22×5 [26×5]",
             "guard" : "All",
             "startup" : "4+3",
@@ -683,8 +656,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "100%"
-        },"DI 236236P" : {
-            "name" : "Sacred Edge",
+        },"DI 236236P (Sacred Edge)" : {
             "damage" : "20×8",
             "guard" : "All",
             "startup" : "4+3",
@@ -698,8 +670,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "100%"
-        },"214214H" : {
-            "name" : "Dragon Install",
+        },"214214H (Dragon Install)" : {
             "damage" : "80 [88]",
             "guard" : "All",
             "startup" : "11+1",

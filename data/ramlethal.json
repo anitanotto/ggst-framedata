@@ -264,8 +264,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236S" : {
-            "name" : "Bajoneto",
+        },"236S (Bajoneto)" : {
             "damage" : "25, 30",
             "guard" : "All",
             "startup" : "20",
@@ -279,8 +278,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236H" : {
-            "name" : "Bajoneto",
+        },"236H (Bajoneto)" : {
             "damage" : "25, 30",
             "guard" : "All",
             "startup" : "20",
@@ -294,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"623P" : {
-            "name" : "Dauro",
+        },"623P (Dauro)" : {
             "damage" : "35",
             "guard" : "All",
             "startup" : "11",
@@ -309,8 +306,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"214K" : {
-            "name" : "Sildo Detruo",
+        },"214K (Sildo Detruo)" : {
             "damage" : "40",
             "guard" : "Mid",
             "startup" : "30",
@@ -324,8 +320,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"j.214K" : {
-            "name" : "Sildo Detruo",
+        },"j.214K (Sildo Detruo)" : {
             "damage" : "40",
             "guard" : "Mid",
             "startup" : "30",
@@ -339,8 +334,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"214H" : {
-            "name" : "Sabrubato",
+        },"214H (Sabrubato)" : {
             "damage" : "100 [75] {50}",
             "guard" : "All",
             "startup" : "19",
@@ -354,8 +348,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "100%"
-        },"214P" : {
-            "name" : "Erarlumo",
+        },"214P (Erarlumo)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "16",
@@ -369,8 +362,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"214P 214P" : {
-            "name" : "Erarlumo",
+        },"214P 214P (Erarlumo)" : {
             "damage" : "35 [50]",
             "guard" : "All",
             "startup" : "9",
@@ -384,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"214P 214P 214P" : {
-            "name" : "Erarlumo",
+        },"214P 214P 214P (Erarlumo)" : {
             "damage" : "40 [70]",
             "guard" : "All",
             "startup" : "11",
@@ -399,8 +390,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "100%"
-        },"j.214S" : {
-            "name" : "Agressa Ordono",
+        },"j.214S (Agressa Ordono)" : {
             "damage" : "30,30 [24,30] [30,24] {24,24}",
             "guard" : "All",
             "startup" : "12",
@@ -414,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"632146H" : {
-            "name" : "Calvados",
+        },"632146H (Calvados)" : {
             "damage" : "1×29, 127",
             "guard" : "All (Guard Crush)",
             "startup" : "11+13",
@@ -429,8 +418,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"236236S" : {
-            "name" : "Mortobato",
+        },"236236S (Mortobato)" : {
             "damage" : "160 [130] {100}",
             "guard" : "All",
             "startup" : "7+2",

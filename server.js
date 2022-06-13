@@ -38,7 +38,6 @@ app.get('/api/:character', (req, res) => {
     const character = req.params.character.toLowerCase()
 
     //serves a JSON file if the api endpoint matches one of the file names in /data
-    //otherwise, returns an empty object
     if (fs.existsSync(`./data/${character}.json`)) {
         res.sendFile(__dirname + `/data/${character}.json`)
     }else{
@@ -52,17 +51,10 @@ app.listen(PORT, () => {
 })
 
 function getCharacters() {
-    const files = fs.readdirSync(__dirname + '/data')
 
-    let characters = {}
-
-    for (let i = 0; i < files.length; i++) {
-        characters[String(files[i].split('.')[0])] = fs.readFileSync(`${__dirname}/data/${files[i]}`, 'utf8', (err, data) =>  {
-            if (err) throw err
-            return JSON.parse(data)
-        })
-    }
-
-    return characters
+    return fs.readFileSync(`${__dirname}/data/all.json`, 'utf8', (err, data) => {
+        if (err) throw err
+        return JSON.parse(data)
+    })
 
 }

@@ -264,8 +264,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"236P" : {
-            "name" : "Summon Servant",
+        },"236P (Summon Servant)" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "10",
@@ -279,8 +278,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
-        },"236[P]" : {
-            "name" : "Summon Servant",
+        },"236[P] (Summon Servant)" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "",
@@ -294,8 +292,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
-        },"2P (near Servant)" : {
-            "name" : "Pick Up Servant",
+        },"2P (near Servant) (Pick Up Servant)" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "",
@@ -309,8 +306,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
-        },"6P/6K/6S/6H/6D while holding Servant" : {
-            "name" : "Throw Servant",
+        },"6P/6K/6S/6H/6D while holding Servant (Throw Servant)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "12",
@@ -324,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "70%"
-        },"D while holding Servant" : {
-            "name" : "Release Servant",
+        },"D while holding Servant (Release Servant)" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "",
@@ -339,8 +334,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
-        },"214P" : {
-            "name" : "Recover Servant",
+        },"214P (Recover Servant)" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "3+7",
@@ -354,8 +348,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : ""
-        },"214K" : {
-            "name" : "Attack Command",
+        },"214K (Attack Command)" : {
             "damage" : "50",
             "guard" : "All",
             "startup" : "3+9",
@@ -369,8 +362,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"214S" : {
-            "name" : "Defend Command",
+        },"214S (Defend Command)" : {
             "damage" : "33",
             "guard" : "-",
             "startup" : "3+1",
@@ -384,8 +376,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : "80%"
-        },"S while holding Servant" : {
-            "name" : "Held Defend Command",
+        },"S while holding Servant (Held Defend Command)" : {
             "damage" : "33",
             "guard" : "-",
             "startup" : "3+1",
@@ -399,8 +390,7 @@
             "counter" : "",
             "invuln" : "none",
             "prorate" : "80%"
-        },"214H" : {
-            "name" : "Countdown",
+        },"214H (Countdown)" : {
             "damage" : "80",
             "guard" : "All",
             "startup" : "3+180+26",
@@ -414,8 +404,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "Servant Shoot",
+        },"236K (Servant Shoot)" : {
             "damage" : "31",
             "guard" : "All",
             "startup" : "15",
@@ -429,8 +418,7 @@
             "counter" : "Mid",
             "invuln" : "none",
             "prorate" : "100%"
-        },"Bounced Servant" : {
-            "name" : "Servant",
+        },"Bounced Servant (Servant)" : {
             "damage" : "30",
             "guard" : "All",
             "startup" : "5+1",
@@ -444,8 +432,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"Launched Servant" : {
-            "name" : "Servant",
+        },"Launched Servant (Servant)" : {
             "damage" : "45 [50]",
             "guard" : "All",
             "startup" : "5+1",
@@ -459,8 +446,7 @@
             "counter" : "Small",
             "invuln" : "none",
             "prorate" : "80%"
-        },"632146P" : {
-            "name" : "Forever Elysion Driver",
+        },"632146P (Forever Elysion Driver)" : {
             "damage" : "179",
             "guard" : "Throw",
             "startup" : "10 + [10] + 1",
@@ -474,8 +460,7 @@
             "counter" : "",
             "invuln" : "All 1~12F, Throw 1~55F",
             "prorate" : "100%"
-        },"236236S" : {
-            "name" : "Cheer Servant On (S)",
+        },"236236S (Cheer Servant On (S))" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "3",
@@ -489,8 +474,7 @@
             "counter" : "",
             "invuln" : "Jack-O: None, Servants: 4~14F Full",
             "prorate" : ""
-        },"236236H" : {
-            "name" : "Cheer Servant On (H)",
+        },"236236H (Cheer Servant On (H))" : {
             "damage" : "",
             "guard" : "-",
             "startup" : "3",

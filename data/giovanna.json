@@ -223,7 +223,7 @@
             "invuln" : "",
             "prorate" : "100%"
         },"6HH" : {
-            "damage" : "28",
+            "damage" : "32",
             "guard" : "All",
             "startup" : "11",
             "active" : "",
@@ -237,7 +237,7 @@
             "invuln" : "",
             "prorate" : "100%"
         },"6HHH" : {
-            "damage" : "29",
+            "damage" : "40",
             "guard" : "All",
             "startup" : "13",
             "active" : "",
@@ -292,8 +292,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236K" : {
-            "name" : "Trovao",
+        },"236K (Trovao)" : {
             "damage" : "48",
             "guard" : "All",
             "startup" : "27",
@@ -307,8 +306,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"214K" : {
-            "name" : "Sepultura",
+        },"214K (Sepultura)" : {
             "damage" : "39",
             "guard" : "All",
             "startup" : "13",
@@ -322,8 +320,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"623S" : {
-            "name" : "Sol Nascente",
+        },"623S (Sol Nascente)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "7",
@@ -337,8 +334,7 @@
             "counter" : "Mid",
             "invuln" : "upper body invuln 1~6, above the knees 7~9",
             "prorate" : "90%"
-        },"214S" : {
-            "name" : "Sol Poente",
+        },"214S (Sol Poente)" : {
             "damage" : "40, 30",
             "guard" : "All, High",
             "startup" : "[4] 27",
@@ -352,8 +348,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%, 80%"
-        },"j.214S" : {
-            "name" : "Sol Poente",
+        },"j.214S (Sol Poente)" : {
             "damage" : "20, 30",
             "guard" : "All, High",
             "startup" : "[4] 27",
@@ -367,8 +362,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%, 80%"
-        },"632146H" : {
-            "name" : "Ventania",
+        },"632146H (Ventania)" : {
             "damage" : "21×4, 84",
             "guard" : "All",
             "startup" : "5+4",
@@ -382,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "1~10F Full",
             "prorate" : "100%"
-        },"j.236236H" : {
-            "name" : "Tempestade",
+        },"j.236236H (Tempestade)" : {
             "damage" : "42, 10×5, 21, 31",
             "guard" : "All",
             "startup" : "3+1",

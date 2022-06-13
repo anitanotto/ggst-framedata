@@ -726,8 +726,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"236S" : {
-            "name" : "Zarameyuki",
+        },"236S (Zarameyuki)" : {
             "damage" : "45",
             "guard" : "Mid",
             "startup" : "18",
@@ -741,8 +740,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236K" : {
-            "name" : "Fukyo",
+        },"236K (Fukyo)" : {
             "damage" : "N/A",
             "guard" : "N/A",
             "startup" : "-",
@@ -756,8 +754,7 @@
             "counter" : "",
             "invuln" : "1~25F Above Chest",
             "prorate" : ""
-        },"214K" : {
-            "name" : "Fukyo",
+        },"214K (Fukyo)" : {
             "damage" : "N/A",
             "guard" : "N/A",
             "startup" : "-",
@@ -771,8 +768,7 @@
             "counter" : "",
             "invuln" : "1~16F Above Chest",
             "prorate" : ""
-        },"214H" : {
-            "name" : "Kamuriyuki",
+        },"214H (Kamuriyuki)" : {
             "damage" : "50",
             "guard" : "Mid",
             "startup" : "14",
@@ -786,8 +782,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "90%"
-        },"623H" : {
-            "name" : "Shizuriyuki",
+        },"623H (Shizuriyuki)" : {
             "damage" : "45",
             "guard" : "Mid",
             "startup" : "11",
@@ -801,8 +796,7 @@
             "counter" : "Large",
             "invuln" : "1-13F Upper Body",
             "prorate" : ""
-        },"623HH" : {
-            "name" : "Shizuriyuki",
+        },"623HH (Shizuriyuki)" : {
             "damage" : "55",
             "guard" : "Mid",
             "startup" : "10",
@@ -816,8 +810,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : ""
-        },"623P" : {
-            "name" : "Bloodsucking Universe",
+        },"623P (Bloodsucking Universe)" : {
             "damage" : "80,90,100",
             "guard" : "Ground Throw",
             "startup" : "7",
@@ -831,8 +824,7 @@
             "counter" : "",
             "invuln" : "1~8F Throw",
             "prorate" : "50%"
-        },"632146S" : {
-            "name" : "Wasureyuki",
+        },"632146S (Wasureyuki)" : {
             "damage" : "70, 3×17, 60",
             "guard" : "Mid",
             "startup" : "7+(173 Flash)+2",
@@ -846,8 +838,7 @@
             "counter" : "Mid",
             "invuln" : "1~10F Full",
             "prorate" : ""
-        },"632146H" : {
-            "name" : "Zansetsu",
+        },"632146H (Zansetsu)" : {
             "damage" : "200",
             "guard" : "Mid",
             "startup" : "11+(58 Flash)+10",

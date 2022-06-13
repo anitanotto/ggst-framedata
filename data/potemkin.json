@@ -278,8 +278,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"[4]6H" : {
-            "name" : "Hammer Fall",
+        },"[4]6H (Hammer Fall)" : {
             "damage" : "58",
             "guard" : "All",
             "startup" : "18~62",
@@ -293,8 +292,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"[4]6H P" : {
-            "name" : "Hammer Fall Break",
+        },"[4]6H P (Hammer Fall Break)" : {
             "damage" : "N/A",
             "guard" : "N/A",
             "startup" : "",
@@ -308,8 +306,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"632146P" : {
-            "name" : "Potemkin Buster",
+        },"632146P (Potemkin Buster)" : {
             "damage" : "175",
             "guard" : "Ground Throw",
             "startup" : "5",
@@ -323,8 +320,7 @@
             "counter" : "",
             "invuln" : "1 ~ 8F Throw",
             "prorate" : "50%"
-        },"623H" : {
-            "name" : "Heat Knuckle",
+        },"623H (Heat Knuckle)" : {
             "damage" : "0,8×7,60",
             "guard" : "Air Guard Crush",
             "startup" : "12",
@@ -338,8 +334,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "50%"
-        },"236P" : {
-            "name" : "Mega Fist",
+        },"236P (Mega Fist)" : {
             "damage" : "50",
             "guard" : "High",
             "startup" : "25",
@@ -353,8 +348,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"214P" : {
-            "name" : "Mega Fist",
+        },"214P (Mega Fist)" : {
             "damage" : "50",
             "guard" : "High",
             "startup" : "25",
@@ -368,8 +362,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"2146K~P" : {
-            "name" : "Mega Fist",
+        },"2146K~P (Mega Fist)" : {
             "damage" : "80",
             "guard" : "High",
             "startup" : "26-27",
@@ -383,8 +376,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "80%"
-        },"236S" : {
-            "name" : "Slide Head",
+        },"236S (Slide Head)" : {
             "damage" : "0",
             "guard" : "Low (Guard Crush)",
             "startup" : "29",
@@ -398,8 +390,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"63214S" : {
-            "name" : "F.D.B.",
+        },"63214S (F.D.B.)" : {
             "damage" : "55 [75]",
             "guard" : "All",
             "startup" : "21~38 [38]",
@@ -413,8 +404,7 @@
             "counter" : "Mid",
             "invuln" : "4 ~ [20~37F] Reflect",
             "prorate" : "100%"
-        },"Reflect Projectile" : {
-            "name" : "",
+        },"Reflect Projectile ()" : {
             "damage" : "50",
             "guard" : "All",
             "startup" : "1",
@@ -428,8 +418,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"214H" : {
-            "name" : "Garuda Impact",
+        },"214H (Garuda Impact)" : {
             "damage" : "63",
             "guard" : "All (Guard Crush)",
             "startup" : "28",
@@ -443,8 +432,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "100%"
-        },"236236S" : {
-            "name" : "Heavenly Potemkin Buster",
+        },"236236S (Heavenly Potemkin Buster)" : {
             "damage" : "220",
             "guard" : "Air Unblockable",
             "startup" : "12+0",
@@ -458,8 +446,7 @@
             "counter" : "Small",
             "invuln" : "1 ~ 12F Full",
             "prorate" : "100%"
-        },"632146H" : {
-            "name" : "Giganter Kai",
+        },"632146H (Giganter Kai)" : {
             "damage" : "60",
             "guard" : "All",
             "startup" : "10+1",
@@ -473,8 +460,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "100%"
-        },"Mirror" : {
-            "name" : "Giganter Kai (Barrier)",
+        },"Mirror (Giganter Kai (Barrier))" : {
             "damage" : "15×3",
             "guard" : "All",
             "startup" : "10+6",

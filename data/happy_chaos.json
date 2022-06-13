@@ -250,8 +250,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"H" : {
-            "name" : "At the Ready",
+        },"H (At the Ready)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "0",
@@ -265,8 +264,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"236S" : {
-            "name" : "At the Ready",
+        },"236S (At the Ready)" : {
             "damage" : "42",
             "guard" : "All",
             "startup" : "9",
@@ -280,8 +278,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "90%"
-        },"236S H" : {
-            "name" : "Fire",
+        },"236S H (Fire)" : {
             "damage" : "30 [20]",
             "guard" : "All",
             "startup" : "1",
@@ -295,8 +292,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"214S" : {
-            "name" : "Steady Aim",
+        },"214S (Steady Aim)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "18",
@@ -310,8 +306,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214S H" : {
-            "name" : "Fire",
+        },"214S H (Fire)" : {
             "damage" : "55 [35]",
             "guard" : "Guard Crush [All]",
             "startup" : "1",
@@ -325,8 +320,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "80%"
-        },"236S 2H" : {
-            "name" : "Cancel Aim",
+        },"236S 2H (Cancel Aim)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -340,8 +334,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214S 214S" : {
-            "name" : "Cancel Aim",
+        },"214S 214S (Cancel Aim)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -355,8 +348,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"22P" : {
-            "name" : "Reload",
+        },"22P (Reload)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "23",
@@ -370,8 +362,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214P" : {
-            "name" : "Focus",
+        },"214P (Focus)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -385,8 +376,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"214K" : {
-            "name" : "Roll",
+        },"214K (Roll)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -400,8 +390,7 @@
             "counter" : "",
             "invuln" : "4~15 Upper Body",
             "prorate" : ""
-        },"236K" : {
-            "name" : "Scapegoat",
+        },"236K (Scapegoat)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "10",
@@ -415,8 +404,7 @@
             "counter" : "",
             "invuln" : "10~30F Airborne",
             "prorate" : ""
-        },"236P" : {
-            "name" : "Curse",
+        },"236P (Curse)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "-",
@@ -430,8 +418,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"632146S" : {
-            "name" : "Deus Ex Machina",
+        },"632146S (Deus Ex Machina)" : {
             "damage" : "20, 1×17, 100",
             "guard" : "All",
             "startup" : "13+(193 Flash)+7",
@@ -445,8 +432,7 @@
             "counter" : "Small",
             "invuln" : "",
             "prorate" : "100%"
-        },"214214P" : {
-            "name" : "Super Focus",
+        },"214214P (Super Focus)" : {
             "damage" : "-",
             "guard" : "-",
             "startup" : "5",
