@@ -1863,7 +1863,7 @@
         },"236S 236K (Senshuu)" : {
             "damage" : "40",
             "guard" : "High",
-            "startup" : "25",
+            "startup" : "20",
             "active" : "6",
             "recovery" : "20",
             "onBlock" : "-9",
@@ -5237,7 +5237,7 @@
         },"632146P (Forever Elysion Driver)" : {
             "damage" : "179",
             "guard" : "Throw",
-            "startup" : "10 + [10] + 1",
+            "startup" : "10+1",
             "active" : "2",
             "recovery" : "58",
             "onBlock" : "-",
@@ -5869,8 +5869,8 @@
             "guard" : "All",
             "startup" : "24",
             "active" : "11",
-            "recovery" : "8",
-            "onBlock" : "-2~+6 [+2~+12]",
+            "recovery" : "6",
+            "onBlock" : "-2~+6 [+4~+12]",
             "onHit" : "+2~+9 [+9~+14]",
             "riscGain" : "1000 [2500]",
             "riscLoss" : "2800",
@@ -5883,7 +5883,7 @@
             "guard" : "All",
             "startup" : "24",
             "active" : "3,2,6",
-            "recovery" : "8",
+            "recovery" : "6",
             "onBlock" : "+7~+12",
             "onHit" : "+11~+16",
             "riscGain" : "800×3",
@@ -9767,7 +9767,7 @@
             "riscGain" : "500",
             "riscLoss" : "2000",
             "level" : "2",
-            "counter" : "Small",
+            "counter" : "Very Small",
             "invuln" : "",
             "prorate" : "80%"
         },"214P (Gun Flame (Feint))" : {
@@ -9809,7 +9809,7 @@
             "riscGain" : "700×2",
             "riscLoss" : "1000",
             "level" : "2",
-            "counter" : "Large, Small",
+            "counter" : "Large, Very Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
         },"j.623S (Volcanic Viper)" : {
@@ -9837,7 +9837,7 @@
             "riscGain" : "700×2",
             "riscLoss" : "1000",
             "level" : "2",
-            "counter" : "Large, Small",
+            "counter" : "Large, Very Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
         },"236K (Bandit Revolver)" : {
@@ -9977,7 +9977,7 @@
             "riscGain" : "1200, 1000",
             "riscLoss" : "1000",
             "level" : "4, 3",
-            "counter" : "Mid, Small",
+            "counter" : "Mid, Very Small",
             "invuln" : "1~8F Full",
             "prorate" : "100%"
         },"214214H (Heavy Mob Cemetery)" : {
@@ -10540,6 +10540,20 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
+        },"Dash Cancel" : {
+            "damage" : "",
+            "guard" : "",
+            "startup" : "",
+            "active" : "",
+            "recovery" : "Total 26",
+            "onBlock" : "",
+            "onHit" : "",
+            "riscGain" : "",
+            "riscLoss" : "",
+            "level" : "",
+            "counter" : "",
+            "invuln" : "",
+            "prorate" : ""
         }},"zato-1" : {"5P" : {
             "damage" : "18",
             "guard" : "All",
@@ -10960,7 +10974,7 @@
             "counter" : "",
             "invuln" : "1~5 Throw",
             "prorate" : "50%"
-        },"214[K] (Break The Law)" : {
+        },"214K (Break The Law)" : {
             "damage" : "",
             "guard" : "",
             "startup" : "28 Total (Max 95)",

@@ -421,7 +421,7 @@
         },"236S 236K (Senshuu)" : {
             "damage" : "40",
             "guard" : "High",
-            "startup" : "25",
+            "startup" : "20",
             "active" : "6",
             "recovery" : "20",
             "onBlock" : "-9",

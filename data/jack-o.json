@@ -449,7 +449,7 @@
         },"632146P (Forever Elysion Driver)" : {
             "damage" : "179",
             "guard" : "Throw",
-            "startup" : "10 + [10] + 1",
+            "startup" : "10+1",
             "active" : "2",
             "recovery" : "58",
             "onBlock" : "-",

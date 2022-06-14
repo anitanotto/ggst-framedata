@@ -289,7 +289,7 @@
             "riscGain" : "500",
             "riscLoss" : "2000",
             "level" : "2",
-            "counter" : "Small",
+            "counter" : "Very Small",
             "invuln" : "",
             "prorate" : "80%"
         },"214P (Gun Flame (Feint))" : {
@@ -331,7 +331,7 @@
             "riscGain" : "700×2",
             "riscLoss" : "1000",
             "level" : "2",
-            "counter" : "Large, Small",
+            "counter" : "Large, Very Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
         },"j.623S (Volcanic Viper)" : {
@@ -359,7 +359,7 @@
             "riscGain" : "700×2",
             "riscLoss" : "1000",
             "level" : "2",
-            "counter" : "Large, Small",
+            "counter" : "Large, Very Small",
             "invuln" : "1~14F Strike",
             "prorate" : "80%"
         },"236K (Bandit Revolver)" : {
@@ -499,7 +499,7 @@
             "riscGain" : "1200, 1000",
             "riscLoss" : "1000",
             "level" : "4, 3",
-            "counter" : "Mid, Small",
+            "counter" : "Mid, Very Small",
             "invuln" : "1~8F Full",
             "prorate" : "100%"
         },"214214H (Heavy Mob Cemetery)" : {
