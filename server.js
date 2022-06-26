@@ -19,14 +19,14 @@ app.use(express.urlencoded({ extended: true}))
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    let data = getCharacters()
+    let data = JSON.parse(getCharacters())
     res.render('index.ejs', { info: data, p1: '', p2: '' })
 })
 
 app.get('/turn/:player1/:player2', (req, res) => {
     const player1 = req.params.player1.toLowerCase()
     const player2 = req.params.player2.toLowerCase()
-    const data = getCharacters()
+    const data = JSON.parse(getCharacters())
     res.render('index.ejs', { info: data, p1: player1, p2: player2 })
 })
 
@@ -38,8 +38,8 @@ app.get('/api/:character', (req, res) => {
     const character = req.params.character.toLowerCase()
 
     //serves a JSON file if the api endpoint matches one of the file names in /data
-    if (fs.existsSync(`./data/${character}.json`)) {
-        res.sendFile(__dirname + `/data/${character}.json`)
+    if (fs.existsSync(`./data/ggst/${character}.json`)) {
+        res.sendFile(__dirname + `/data/ggst/${character}.json`)
     }else{
         res.statusMessage =  'Invalid Endpoint'
         res.status(400).end()
@@ -52,9 +52,11 @@ app.listen(PORT, () => {
 
 function getCharacters() {
 
-    return fs.readFileSync(`${__dirname}/data/all.json`, 'utf8', (err, data) => {
+    let data = fs.readFileSync(`${__dirname}/data/ggst/all.json`, 'utf8', (err, data) => {
         if (err) throw err
         return JSON.parse(data)
     })
+
+    return data
 
 }

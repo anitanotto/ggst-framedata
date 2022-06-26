@@ -26,6 +26,9 @@ function parseIndex(html) {
 async function parseFrameData(frameUrl) {
     let html = await fetch(frameUrl)
 
+    /* 
+     * This was fixed in the html.
+     *
     //some characters links from the main page redirect and apparently there's
     //no way to fetch the url from a redirect?
     //so, we have to hard code the exceptions...
@@ -45,6 +48,8 @@ async function parseFrameData(frameUrl) {
         }
         html = await fetch(retryURL + '/Frame_Data')
     }
+    
+    */
 
     let data = await html.text()
 
@@ -108,7 +113,9 @@ function parseMove(arr) {
         }
 
         arr[13] = arr[13].split('<br>').map(e => e.trim()).join(', ')
-        return `"${arr[0]} (${arr[1]})" : {
+        // handling for leo's bt. normals since they are in a table with name column
+        const nameString = arr[1] ? `${arr[0]} (${arr[1]})` : arr[0]
+        return `"${nameString}" : {
             "damage" : "${arr[2]}",
             "guard" : "${arr[3]}",
             "startup" : "${arr[4]}",
@@ -146,11 +153,11 @@ async function writeFrameData() {
         let data = await parseFrameData(index[i])
         allString += `"${endpoints[i]}" : ${data},`
         console.log(`Writing ${endpoints[i]}.json...`)
-        fs.writeFileSync(`./data/${endpoints[i]}.json`, data)
+        fs.writeFileSync(`./data/ggst/${endpoints[i]}.json`, data)
     }
 
     console.log('Writing all.json...')
-    fs.writeFileSync(`./data/all.json`, (allString.slice(0,-1) + '}'))
+    fs.writeFileSync(`./data/ggst/all.json`, (allString.slice(0,-1) + '}'))
 }
 
 writeFrameData()
