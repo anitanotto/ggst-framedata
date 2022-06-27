@@ -7,25 +7,25 @@ Data can be obtained by making a GET request to `/api/:characterName` with the n
 * anji_mito
 * axl_low
 * baiken
-* chipp
+* chipp_zanuff
 * faust
 * giovanna
-* goldlewis
+* goldlewis_dickinson
 * happy_chaos
 * i-no
 * jack-o
 * ky_kiske
-* leo
+* leo_whitefang
 * may
-* millia
+* millia_rage
 * nagoriyuki
 * potemkin
-* ramlethal
+* ramlethal_valentine
 * sol_badguy
 * testament
 * zato-1
 
-**Link to project:** http://ggst-framedata.herokuapp.com
+**Link to project:** http://ggst-framedata.herokuapp.com/api
 
 ![alt tag](https://www.guiltygear.com/ggst/en/wordpress/wp-content/themes/ggst/img/logo.webp)
 
@@ -44,4 +44,7 @@ Just use `npm run frameupdate`.
 Inputting all of the data for this API manually would have taken much more time than learning how to scrape it... so, I learned how to scrape.
 
 ## Examples:
+An app I made using the frame data api to determine which moves your character can punish with on block in any matchup:
+http://ggst-framedata.herokuapp.com/
+
 Let me know if you make something with this API so I can link it here, too!
