@@ -892,7 +892,7 @@
             "riscLoss" : "1000, 1000",
             "level" : "",
             "counter" : "Mid",
-            "invuln" : "1~15F Strike",
+            "invuln" : "1~15F All",
             "prorate" : "100%"
         },"632146P (One Vision)" : {
             "damage" : "",
@@ -4232,7 +4232,7 @@
             "startup" : "1",
             "active" : "2",
             "recovery" : "43",
-            "onBlock" : "+10*",
+            "onBlock" : "<a",
             "onHit" : "KD",
             "riscGain" : "500",
             "riscLoss" : "1000",
@@ -4259,7 +4259,7 @@
             "guard" : "-",
             "startup" : "-",
             "active" : "-",
-            "recovery" : "28 total",
+            "recovery" : "16 total",
             "onBlock" : "-",
             "onHit" : "-",
             "riscGain" : "",
@@ -8497,7 +8497,7 @@
             "invuln" : "",
             "prorate" : ""
         },"623P (Bloodsucking Universe)" : {
-            "damage" : "80,90,100",
+            "damage" : "80/90/100",
             "guard" : "Ground Throw",
             "startup" : "7",
             "active" : "2",

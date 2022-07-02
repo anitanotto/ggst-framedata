@@ -811,7 +811,7 @@
             "invuln" : "",
             "prorate" : ""
         },"623P (Bloodsucking Universe)" : {
-            "damage" : "80,90,100",
+            "damage" : "80/90/100",
             "guard" : "Ground Throw",
             "startup" : "7",
             "active" : "2",
