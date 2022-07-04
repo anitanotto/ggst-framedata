@@ -1,15 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>When is my turn?</title>
-    <link href="/css/reset.css" rel="stylesheet" type="text/css">
-    <link href="/css/style.css" rel="stylesheet" type="text/css">
-</head>
-<body>
-    <header>
-    <form>
-        <span>I'm</span>
+<!DOCTYPE HTML>
+<!--
+	Transit by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>When's my turn?</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+                        <% if(p1 == '') {%><a href="/" class="logo"><strong>When's my turn in Guilty Gear -Strive-?</strong></a><% } else { %>
+                        <a href="/" class="logo"><strong>You're <%= p1.split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %> vs. <%= p2.split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %>:</strong></a><% } %>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Nav -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="/">Home</a></li>
+							<li><a href="/api">API</a></li>
+							<li><a href="https://github.com/anitanotto/ggst-framedata">Github</a></li>
+						</ul>
+
+                            <% if (p1 !== '') { %>
+                        <ul class="actions stacked">
+                            <li>Change Matchup</li>
         <select id="p1"> 
             <% for(let i = 0;  i < Object.keys(info).length; i++) {%>
             <% if(Object.keys(info)[i] == p1) {%>
@@ -31,9 +57,50 @@
         </select>
         
     </form>
-    <a id="button" href="/turn/sol_badguy/ky_kiske/">When is my turn?</a>
-    </header>
+								<li><a href="/" class="button">When's my turn?</a></li>
 
+                            <% } %>
+                        </ul>
+					</nav>
+
+				<!-- Banner -->
+                <% if(p1 == '' && p2 == '') {%>
+					<section id="banner">
+						<div class="image filtered" data-position="center">
+							<img src="/images/pic01.jpg" alt="" />
+						</div>
+						<div class="content">
+    <form>
+        <span>I'm</span>
+        <select id="p1"> 
+            <% for(let i = 0;  i < Object.keys(info).length; i++) {%>
+            <% if(Object.keys(info)[i] == 'sol_badguy') {%>
+            <option value="<%= Object.keys(info)[i] %>" selected><%= Object.keys(info)[i].split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %></option>
+            <% } else {%>
+            <option value="<%= Object.keys(info)[i] %>"><%= Object.keys(info)[i].split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %></option>
+            <% } %>
+            <% } %>
+        </select>
+        <span> vs. </span>
+        <select id="p2">
+            <% for(let i = 0;  i < Object.keys(info).length; i++) {%>
+            <% if(Object.keys(info)[i] == 'ky_kiske') {%>
+            <option value="<%= Object.keys(info)[i] %>" selected><%= Object.keys(info)[i].split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %></option>
+            <% } else {%>
+            <option value="<%= Object.keys(info)[i] %>"><%= Object.keys(info)[i].split('_').map(e => e[0].toUpperCase() + e.slice(1)).join(' ') %></option>
+            <% } %>
+            <% } %>
+        </select>
+        
+    </form>
+							<ul class="actions special">
+								<li><a href="/" class="button">When's my turn?</a></li>
+							</ul>
+						</div>
+					</section>
+                    <% } %>
+
+				<!-- Spotlight -->
     <% if(p1 !== '' && p2 !== '') {%>
     <% let validMoves = {} %>
     <% let invalidMoves = ['Servant', '100T Weight', 'Earthquake', 'bt.', 'j.', 'KK', 'SS', 'Kachoufuugetsu', 'Hiiragi', 'Air Throw', 'Heavenly Potemkin', 'Finish Blow', 'Burn It Down', 'Followup'] %>
@@ -108,11 +175,15 @@
     <% } %>
 
     <% if (info[p2][move].onBlock && plusMoves[0].length > 0) {%>
-    <section>
-    <img src="/img/<%= p2 %>/<%= imgCounter %>.png"></img>
-    </section>
-    <p>If you block their <%= move %>, you can :</p>
+    <section class="main spotlight right invert accent1">
+    <div class="image filtered" data-position="center">
+        <img src="/images/<%= p2 %>/<%= imgCounter %>.png">
+    </div>
+    <div class="content">
+    <h2>If you block their <%= move %>, you can :</h2>
     <p><%= plusMoves[0].join(", ") %></p>
+    </div>
+    </section>
     <% } %>
     <% } %>
 
@@ -184,12 +255,13 @@
     <% } %>
 
     <% if (info[p2][move].onBlock && plusMoves[0].length > 0) {%>
-    <section>
-    <img src="/img/<%= p2 %>/<%= imgCounter %>.png"></img>
-    </section>
-    <p><%= renderString1 %> <%= move %>, you can :</p>
+    <section class="main spotlight right invert accent1">
+        <div class="image filtered" data-position="center">
+            <img src="/images/<%= p2 %>/<%= imgCounter %>.png">
+        </div>
+        <div class="content">
+            <h2><%= renderString1 %> <%= move %>, you can :</h2>
     <p><%= plusMoves[0].join(", ") %></p>
-    <% } %>
 
     <% for(let yourMove in validMoves) {%>
     <% if (onBlock[1] < 0 && Math.abs(onBlock[1]) > validMoves[yourMove] ) {%>
@@ -205,44 +277,53 @@
 
     <% if (onBlock.length > 1) {%>
     <% if (info[p2][move].onBlock && plusMoves[1].length > 0) {%>
-    <section>
-    <p><%= renderString2 %>, you can :</p>
+    <h2><%= renderString2 %>, you can :</h2>
     <p><%= plusMoves[1].join(", ") %></p>
-    </section>
     <% } %>
     <% } %>
 
     <% if (onBlock.length > 2) {%>
     <% if (info[p2][move].onBlock && plusMoves[2].length > 0) {%>
-    <section>
-    <p><%= renderString3 %>, you can :</p>
+    <h2><%= renderString3 %>, you can :</h2>
     <p><%= plusMoves[2].join(", ") %></p>
-    </section>
     <% } %>
     <% } %>
 
     <% if (onBlock.length > 3) {%>
     <% if (info[p2][move].onBlock && plusMoves[3].length > 0) {%>
-    <section>
-    <p><%= renderString4 %>, you can :</p>
+    <h2><%= renderString4 %>, you can :</h2>
     <p><%= plusMoves[3].join(", ") %></p>
+    <% } %>
+    <% } %>
+        </div>
     </section>
     <% } %>
-    <% } %>
 
     <% } %>
-
     
     <% imgCounter++ %>
     <% } %>
     <% } %>
 
-    <footer>
-        <a href="#top">Top</a>
-        <a href="/api">API Info</a>
-        <span>Data from <a href="https://dustloop.com/wiki/index.php?title=Guilty_Gear_-Strive-">Dustloop</a>
-    </footer>
+				<!-- Footer -->
+					<footer id="footer">
+                        <p class="copyright">Data from <a href="https://www.dustloop.com/wiki/index.php?title=Guilty_Gear_-Strive-">Dustloop</a></p>
+						<ul class="icons">
+                            <% if (p1) { %><li><a href="#header">Back to Top</a></li> <% }  %>
+							<li><a href="https://github.com/anitanotto/ggst-framedata/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</footer>
 
-    <script src="/js/main.js"></script>
-</body>
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.scrolly.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+            <script src="/assets/js/router.js"></script>
+
+	</body>
 </html>
