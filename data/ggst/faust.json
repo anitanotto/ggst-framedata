@@ -391,7 +391,7 @@
             "invuln" : "",
             "prorate" : "50%"
         },"j.236P (Love)" : {
-            "damage" : "18, 27",
+            "damage" : "18, 40",
             "guard" : "All",
             "startup" : "27",
             "active" : "",
@@ -403,9 +403,9 @@
             "level" : "1, 2",
             "counter" : "Very Small",
             "invuln" : "",
-            "prorate" : "100%"
+            "prorate" : "80%"
         },"j.236P (With Afro) (Love)" : {
-            "damage" : "18, 41",
+            "damage" : "18, 60",
             "guard" : "All (Guard Crush)",
             "startup" : "27",
             "active" : "",
@@ -417,7 +417,7 @@
             "level" : "1, 2",
             "counter" : "Very Small",
             "invuln" : "",
-            "prorate" : "100%"
+            "prorate" : "80%"
         },"214P (Scarecrow)" : {
             "damage" : "28×2 [28×3]",
             "guard" : "All",
@@ -615,7 +615,7 @@
             "invuln" : "",
             "prorate" : "80%"
         },"Mini Faust" : {
-            "damage" : "15,11 (stomps) 15×N (lunge)",
+            "damage" : "15×2 (stomps) 15×N (lunge)",
             "guard" : "",
             "startup" : "",
             "active" : "",

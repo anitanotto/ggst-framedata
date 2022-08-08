@@ -184,7 +184,7 @@
             "damage" : "16×3",
             "guard" : "High",
             "startup" : "10",
-            "active" : "",
+            "active" : "2, 2, 2",
             "recovery" : "",
             "onBlock" : "",
             "onHit" : "",
@@ -430,7 +430,7 @@
             "riscLoss" : "1000",
             "level" : "4 [4] {2}",
             "counter" : "Mid",
-            "invuln" : "",
+            "invuln" : "All 1~14",
             "prorate" : "100%"
         },"Ground Throw" : {
             "damage" : "80",

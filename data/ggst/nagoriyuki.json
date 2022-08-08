@@ -871,14 +871,14 @@
             "guard" : "N/A",
             "startup" : "1+59",
             "active" : "N/A",
-            "recovery" : "N/A",
+            "recovery" : "0",
             "onBlock" : "N/A",
             "onHit" : "N/A",
             "riscGain" : "",
             "riscLoss" : "",
             "level" : "",
             "counter" : "",
-            "invuln" : "",
+            "invuln" : "1F Full",
             "prorate" : ""
         },"Ground Throw" : {
             "damage" : "90",

@@ -31,7 +31,7 @@
             "guard" : "All",
             "startup" : "9",
             "active" : "6",
-            "recovery" : "15",
+            "recovery" : "10",
             "onBlock" : "+1",
             "onHit" : "+4",
             "riscGain" : "2000",
