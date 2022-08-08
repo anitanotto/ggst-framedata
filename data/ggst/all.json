@@ -1320,8 +1320,8 @@
             "startup" : "9",
             "active" : "12",
             "recovery" : "Landing+7",
-            "onBlock" : "-14 (<a href="/w/Tiger_Knee" title="Tiger Knee">TK</a>)",
-            "onHit" : "+6 (<a href="/w/Tiger_Knee" title="Tiger Knee">TK</a>)",
+            "onBlock" : "-14",
+            "onHit" : "+6",
             "riscGain" : "1125",
             "riscLoss" : "1000",
             "level" : "2",
@@ -1440,7 +1440,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        }},"bridget" : {undefined,"5P" : {
+        }},"bridget" : {"5P" : {
             "damage" : "20",
             "guard" : "Mid",
             "startup" : "8",
@@ -4750,7 +4750,7 @@
             "startup" : "1",
             "active" : "2",
             "recovery" : "43",
-            "onBlock" : "<a href="/w/GGST/Happy_Chaos/Frame_Data#Fire_Table" title="GGST/Happy Chaos/Frame Data">More info</a>",
+            "onBlock" : "-",
             "onHit" : "KD",
             "riscGain" : "500",
             "riscLoss" : "1000",
