@@ -1,4 +1,4 @@
-{undefined,"5P" : {
+{"5P" : {
             "damage" : "20",
             "guard" : "Mid",
             "startup" : "8",
@@ -54,7 +54,7 @@
             "counter" : "Mid",
             "invuln" : "",
             "prorate" : "90%"
-        },"S" : {
+        },"S after f.S or 2S" : {
             "damage" : "40",
             "guard" : "Mid",
             "startup" : "12",
@@ -82,7 +82,7 @@
             "counter" : "Large",
             "invuln" : "",
             "prorate" : "100%"
-        },"H" : {
+        },"H after 5H or 2H" : {
             "damage" : "40",
             "guard" : "Mid",
             "startup" : "12",

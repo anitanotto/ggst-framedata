@@ -312,7 +312,7 @@
             "startup" : "1",
             "active" : "2",
             "recovery" : "43",
-            "onBlock" : "<a href="/w/GGST/Happy_Chaos/Frame_Data#Fire_Table" title="GGST/Happy Chaos/Frame Data">More info</a>",
+            "onBlock" : "-",
             "onHit" : "KD",
             "riscGain" : "500",
             "riscLoss" : "1000",
