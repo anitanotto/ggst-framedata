@@ -6,12 +6,12 @@
             "recovery" : "8",
             "onBlock" : "-2",
             "onHit" : "+1",
-            "riscGain" : "500",
-            "riscLoss" : "1500",
-            "level" : "0",
-            "counter" : "Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1500"
         },"5K" : {
             "damage" : "27",
             "guard" : "All",
@@ -20,12 +20,12 @@
             "recovery" : "10",
             "onBlock" : "-4",
             "onHit" : "-1",
-            "riscGain" : "1000",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "none",
-            "prorate" : "90%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "none",
+            "counter" : "90%",
+            "invuln" : "1000",
+            "prorate" : "1000"
         },"c.S" : {
             "damage" : "39",
             "guard" : "All",
@@ -34,12 +34,12 @@
             "recovery" : "10",
             "onBlock" : "+1",
             "onHit" : "+4",
-            "riscGain" : "2000",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "2000",
+            "prorate" : "1000"
         },"f.S" : {
             "damage" : "32",
             "guard" : "All",
@@ -48,12 +48,12 @@
             "recovery" : "17",
             "onBlock" : "-9",
             "onHit" : "-6",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"5H" : {
             "damage" : "24×2",
             "guard" : "All",
@@ -62,12 +62,12 @@
             "recovery" : "23",
             "onBlock" : "-6",
             "onHit" : "KD",
-            "riscGain" : "1200×2",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Large×2",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Large×2",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "1200×2",
+            "prorate" : "1000"
         },"2P" : {
             "damage" : "21",
             "guard" : "All",
@@ -76,12 +76,12 @@
             "recovery" : "9",
             "onBlock" : "-3",
             "onHit" : "0",
-            "riscGain" : "500",
-            "riscLoss" : "1500",
-            "level" : "0",
-            "counter" : "Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1500"
         },"2K" : {
             "damage" : "24",
             "guard" : "Low",
@@ -90,12 +90,12 @@
             "recovery" : "12",
             "onBlock" : "-3",
             "onHit" : "+0",
-            "riscGain" : "750",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "F6~20 Low-profile",
-            "prorate" : "70%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "F6~20 Low-profile",
+            "counter" : "70%",
+            "invuln" : "750",
+            "prorate" : "1000"
         },"2S" : {
             "damage" : "31",
             "guard" : "All",
@@ -104,12 +104,12 @@
             "recovery" : "22",
             "onBlock" : "-15",
             "onHit" : "-12",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"2H" : {
             "damage" : "41",
             "guard" : "All",
@@ -118,12 +118,12 @@
             "recovery" : "18",
             "onBlock" : "-5",
             "onHit" : "KD",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Large",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Large",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"j.P" : {
             "damage" : "19",
             "guard" : "High",
@@ -132,12 +132,12 @@
             "recovery" : "6",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "375",
-            "riscLoss" : "1000",
-            "level" : "0",
-            "counter" : "Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "375",
+            "prorate" : "1000"
         },"j.K" : {
             "damage" : "23",
             "guard" : "High",
@@ -146,12 +146,12 @@
             "recovery" : "12",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "750",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "750",
+            "prorate" : "1000"
         },"j.S" : {
             "damage" : "28",
             "guard" : "High",
@@ -160,12 +160,12 @@
             "recovery" : "21",
             "onBlock" : "+3 (IAD)",
             "onHit" : "+6 (IAD)",
-            "riscGain" : "1125",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "1125",
+            "prorate" : "1000"
         },"j.H" : {
             "damage" : "20, 15",
             "guard" : "High",
@@ -174,12 +174,12 @@
             "recovery" : "32",
             "onBlock" : "+5 (IAD)",
             "onHit" : "+8 (IAD)",
-            "riscGain" : "525×2",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid×2",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid×2",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "525×2",
+            "prorate" : "1000"
         },"j.D" : {
             "damage" : "30",
             "guard" : "All",
@@ -188,12 +188,12 @@
             "recovery" : "Total 44",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "500",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "1",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1000"
         },"6P" : {
             "damage" : "28",
             "guard" : "All",
@@ -202,12 +202,12 @@
             "recovery" : "20",
             "onBlock" : "-12",
             "onHit" : "KD",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "1~1 Upper Body, 2~12 Above Knees",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "1~1 Upper Body<br>2~12 Above Knees",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"6H" : {
             "damage" : "20, 40",
             "guard" : "All",
@@ -216,12 +216,12 @@
             "recovery" : "14",
             "onBlock" : "-6",
             "onHit" : "KD/-3",
-            "riscGain" : "1000, 1200",
-            "riscLoss" : "1000",
-            "level" : "3, 4",
-            "counter" : "Large×2",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "3, 4",
+            "riscLoss" : "Large×2",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "1000, 1200",
+            "prorate" : "1000"
         },"2D" : {
             "damage" : "29",
             "guard" : "Low",
@@ -230,12 +230,12 @@
             "recovery" : "18",
             "onBlock" : "-19",
             "onHit" : "HKD",
-            "riscGain" : "1125",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Large",
-            "invuln" : "F10~33 Low-profile",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Large",
+            "level" : "F10~33 Low-profile",
+            "counter" : "90%",
+            "invuln" : "1125",
+            "prorate" : "1000"
         },"5D" : {
             "damage" : "45",
             "guard" : "High",
@@ -244,12 +244,12 @@
             "recovery" : "26",
             "onBlock" : "-15",
             "onHit" : "0",
-            "riscGain" : "1125",
-            "riscLoss" : "3000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "1125",
+            "prorate" : "3000"
         },"5[D]" : {
             "damage" : "56",
             "guard" : "High",
@@ -258,12 +258,12 @@
             "recovery" : "26",
             "onBlock" : "-10",
             "onHit" : "KD",
-            "riscGain" : "1875",
-            "riscLoss" : "1500",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "1875",
+            "prorate" : "1500"
         },"236P (Summon Servant)" : {
             "damage" : "",
             "guard" : "-",
@@ -274,9 +274,9 @@
             "onHit" : "",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "none",
             "counter" : "",
-            "invuln" : "none",
+            "invuln" : "",
             "prorate" : ""
         },"236[P] (Summon Servant)" : {
             "damage" : "",
@@ -288,9 +288,9 @@
             "onHit" : "",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "none",
             "counter" : "",
-            "invuln" : "none",
+            "invuln" : "",
             "prorate" : ""
         },"2P (near Servant) (Pick Up Servant)" : {
             "damage" : "",
@@ -302,9 +302,9 @@
             "onHit" : "",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "none",
             "counter" : "",
-            "invuln" : "none",
+            "invuln" : "",
             "prorate" : ""
         },"6P/6K/6S/6H/6D while holding Servant (Throw Servant)" : {
             "damage" : "30",
@@ -314,12 +314,12 @@
             "recovery" : "Total 27",
             "onBlock" : "+5",
             "onHit" : "+8",
-            "riscGain" : "500",
-            "riscLoss" : "1000",
-            "level" : "0",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "70%"
+            "riscGain" : "0",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "70%",
+            "invuln" : "500",
+            "prorate" : "1000"
         },"D while holding Servant (Release Servant)" : {
             "damage" : "",
             "guard" : "-",
@@ -330,9 +330,9 @@
             "onHit" : "",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "none",
             "counter" : "",
-            "invuln" : "none",
+            "invuln" : "",
             "prorate" : ""
         },"214P (Recover Servant)" : {
             "damage" : "",
@@ -340,13 +340,13 @@
             "startup" : "3+7",
             "active" : "",
             "recovery" : "Total 19",
-            "onBlock" : "See Notes",
+            "onBlock" : "",
             "onHit" : "",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "none",
             "counter" : "",
-            "invuln" : "none",
+            "invuln" : "",
             "prorate" : ""
         },"214K (Attack Command)" : {
             "damage" : "50",
@@ -356,12 +356,12 @@
             "recovery" : "Total 23",
             "onBlock" : "+15",
             "onHit" : "KD",
-            "riscGain" : "500",
-            "riscLoss" : "2000",
-            "level" : "2",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "2000"
         },"214S (Defend Command)" : {
             "damage" : "33",
             "guard" : "-",
@@ -371,11 +371,11 @@
             "onBlock" : "",
             "onHit" : "+31",
             "riscGain" : "",
-            "riscLoss" : "1000",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscLoss" : "",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "",
+            "prorate" : "1000"
         },"S while holding Servant (Held Defend Command)" : {
             "damage" : "33",
             "guard" : "-",
@@ -385,25 +385,25 @@
             "onBlock" : "",
             "onHit" : "+31",
             "riscGain" : "",
-            "riscLoss" : "1000",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscLoss" : "",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "",
+            "prorate" : "1000"
         },"214H (Countdown)" : {
             "damage" : "80",
             "guard" : "All",
             "startup" : "3+180+26",
             "active" : "19",
             "recovery" : "Total 24",
-            "onBlock" : "See Notes",
+            "onBlock" : "",
             "onHit" : "KD",
-            "riscGain" : "500",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "3",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1000"
         },"236K (Servant Shoot)" : {
             "damage" : "31",
             "guard" : "All",
@@ -412,12 +412,12 @@
             "recovery" : "25",
             "onBlock" : "-12",
             "onHit" : "KD",
-            "riscGain" : "2000",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "none",
-            "prorate" : "100%"
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "none",
+            "counter" : "100%",
+            "invuln" : "2000",
+            "prorate" : "1000"
         },"Bounced Servant (Servant)" : {
             "damage" : "30",
             "guard" : "All",
@@ -426,12 +426,12 @@
             "recovery" : "",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "500",
-            "riscLoss" : "1000",
-            "level" : "0",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1000"
         },"Launched Servant (Servant)" : {
             "damage" : "45 [50]",
             "guard" : "All",
@@ -440,12 +440,12 @@
             "recovery" : "",
             "onBlock" : "-6",
             "onHit" : "-3",
-            "riscGain" : "500",
-            "riscLoss" : "1000",
-            "level" : "0",
-            "counter" : "Very Small",
-            "invuln" : "none",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Very Small",
+            "level" : "none",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1000"
         },"632146P (Forever Elysion Driver)" : {
             "damage" : "179",
             "guard" : "Throw",
@@ -455,11 +455,11 @@
             "onBlock" : "-",
             "onHit" : "HKD",
             "riscGain" : "",
-            "riscLoss" : "1000",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "All 1~12F, Throw 1~55F",
-            "prorate" : "100%"
+            "riscLoss" : "",
+            "level" : "All 1~12F, Throw 1~55F",
+            "counter" : "100%",
+            "invuln" : "",
+            "prorate" : "1000"
         },"236236S (Cheer Servant On (S))" : {
             "damage" : "",
             "guard" : "-",
@@ -470,9 +470,9 @@
             "onHit" : "-",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "Jack-O: None<br>Servants: 4~14F Full",
             "counter" : "",
-            "invuln" : "Jack-O: None, Servants: 4~14F Full",
+            "invuln" : "",
             "prorate" : ""
         },"236236H (Cheer Servant On (H))" : {
             "damage" : "",
@@ -484,9 +484,9 @@
             "onHit" : "-",
             "riscGain" : "",
             "riscLoss" : "",
-            "level" : "",
+            "level" : "Jack-O: None<br>Servants: 4~14F Full",
             "counter" : "",
-            "invuln" : "Jack-O: None, Servants: 4~14F Full",
+            "invuln" : "",
             "prorate" : ""
         },"Ground Throw" : {
             "damage" : "80",
@@ -497,11 +497,11 @@
             "onBlock" : "",
             "onHit" : "HKD +60",
             "riscGain" : "",
-            "riscLoss" : "2500",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "none",
-            "prorate" : "50%"
+            "riscLoss" : "",
+            "level" : "none",
+            "counter" : "50%",
+            "invuln" : "",
+            "prorate" : "2500"
         },"Air Throw" : {
             "damage" : "80",
             "guard" : "Air Throw",
@@ -511,11 +511,11 @@
             "onBlock" : "",
             "onHit" : "HKD",
             "riscGain" : "",
-            "riscLoss" : "2500",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "none",
-            "prorate" : "50%"
+            "riscLoss" : "",
+            "level" : "none",
+            "counter" : "50%",
+            "invuln" : "",
+            "prorate" : "2500"
         },"Finish Blow" : {
             "damage" : "80",
             "guard" : "",
@@ -524,12 +524,12 @@
             "recovery" : "",
             "onBlock" : "",
             "onHit" : "HKD +23",
-            "riscGain" : "",
-            "riscLoss" : "1000",
-            "level" : "4",
+            "riscGain" : "4",
+            "riscLoss" : "",
+            "level" : "",
             "counter" : "",
             "invuln" : "",
-            "prorate" : ""
+            "prorate" : "1000"
         },"Dash Cancel" : {
             "damage" : "",
             "guard" : "",

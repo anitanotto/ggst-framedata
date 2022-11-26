@@ -6,12 +6,12 @@
             "recovery" : "9",
             "onBlock" : "-2",
             "onHit" : "+1",
-            "riscGain" : "1000",
-            "riscLoss" : "1500",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1000",
+            "prorate" : "1500"
         },"5K" : {
             "damage" : "14, 28",
             "guard" : "All",
@@ -20,12 +20,12 @@
             "recovery" : "25",
             "onBlock" : "-16",
             "onHit" : "-13",
-            "riscGain" : "200, 500",
-            "riscLoss" : "1500",
-            "level" : "0, 1",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "0, 1",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "200, 500",
+            "prorate" : "1500"
         },"c.S" : {
             "damage" : "44",
             "guard" : "All",
@@ -34,12 +34,12 @@
             "recovery" : "10",
             "onBlock" : "+3",
             "onHit" : "+13",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "100%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"f.S" : {
             "damage" : "29",
             "guard" : "All",
@@ -48,12 +48,12 @@
             "recovery" : "13",
             "onBlock" : "+2",
             "onHit" : "+5",
-            "riscGain" : "2000",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "2000",
+            "prorate" : "1000"
         },"5H" : {
             "damage" : "52",
             "guard" : "All",
@@ -62,12 +62,12 @@
             "recovery" : "20",
             "onBlock" : "-5",
             "onHit" : "-2",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Large",
-            "invuln" : "",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Large",
+            "level" : "",
+            "counter" : "100%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"2P" : {
             "damage" : "22",
             "guard" : "All",
@@ -76,12 +76,12 @@
             "recovery" : "8",
             "onBlock" : "-2",
             "onHit" : "+1",
-            "riscGain" : "500",
-            "riscLoss" : "1500",
-            "level" : "0",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "1500"
         },"2K" : {
             "damage" : "28",
             "guard" : "Low",
@@ -90,12 +90,12 @@
             "recovery" : "11",
             "onBlock" : "-2",
             "onHit" : "+1",
-            "riscGain" : "750",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "70%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "70%",
+            "invuln" : "750",
+            "prorate" : "1000"
         },"2S" : {
             "damage" : "34",
             "guard" : "All",
@@ -104,12 +104,12 @@
             "recovery" : "15",
             "onBlock" : "-7",
             "onHit" : "-4",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"2H" : {
             "damage" : "46",
             "guard" : "All",
@@ -118,12 +118,12 @@
             "recovery" : "31",
             "onBlock" : "-17",
             "onHit" : "-2",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Large",
-            "invuln" : "",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Large",
+            "level" : "",
+            "counter" : "100%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"j.P" : {
             "damage" : "24",
             "guard" : "High",
@@ -132,12 +132,12 @@
             "recovery" : "8",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "375",
-            "riscLoss" : "1000",
-            "level" : "0",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "0",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "375",
+            "prorate" : "1000"
         },"j.K" : {
             "damage" : "30",
             "guard" : "High",
@@ -146,26 +146,26 @@
             "recovery" : "20",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "750",
-            "riscLoss" : "1000",
-            "level" : "1",
-            "counter" : "Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "1",
+            "riscLoss" : "Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "750",
+            "prorate" : "1000"
         },"j.S" : {
             "damage" : "36",
             "guard" : "High",
             "startup" : "10",
             "active" : "3",
             "recovery" : "23",
-            "onBlock" : "",
-            "onHit" : "",
-            "riscGain" : "1125",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
+            "onBlock" : "+2 (IAD)",
+            "onHit" : "+5 (IAD)",
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1125",
+            "prorate" : "1000"
         },"j.H" : {
             "damage" : "24×2",
             "guard" : "High",
@@ -174,12 +174,12 @@
             "recovery" : "0",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "525×2",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "525×2",
+            "prorate" : "1000"
         },"j.D" : {
             "damage" : "45",
             "guard" : "High",
@@ -188,12 +188,12 @@
             "recovery" : "17",
             "onBlock" : "",
             "onHit" : "KD",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"6P" : {
             "damage" : "36",
             "guard" : "All",
@@ -202,12 +202,12 @@
             "recovery" : "20",
             "onBlock" : "-11",
             "onHit" : "KD (+24)",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "1~2F Upper Body, 3~13F Above Knees",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "1~2F Upper Body<br>3~13F Above Knees",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"6S" : {
             "damage" : "45",
             "guard" : "All",
@@ -216,12 +216,12 @@
             "recovery" : "20",
             "onBlock" : "-7",
             "onHit" : "-4",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
+            "riscGain" : "4",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"6H" : {
             "damage" : "60",
             "guard" : "All",
@@ -230,12 +230,12 @@
             "recovery" : "43",
             "onBlock" : "-27",
             "onHit" : "HKD (+9)",
-            "riscGain" : "2500",
-            "riscLoss" : "1000",
-            "level" : "4",
-            "counter" : "Large",
-            "invuln" : "",
-            "prorate" : "100%"
+            "riscGain" : "4",
+            "riscLoss" : "Large",
+            "level" : "",
+            "counter" : "100%",
+            "invuln" : "2500",
+            "prorate" : "1000"
         },"2D" : {
             "damage" : "36",
             "guard" : "Low",
@@ -244,26 +244,26 @@
             "recovery" : "18",
             "onBlock" : "-4",
             "onHit" : "HKD (+49)",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Large",
-            "invuln" : "5~24F Low Profile",
-            "prorate" : "90%"
+            "riscGain" : "3",
+            "riscLoss" : "Large",
+            "level" : "5~24F Low Profile",
+            "counter" : "90%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"5D" : {
             "damage" : "50",
             "guard" : "High",
-            "startup" : "20~28",
+            "startup" : "20",
             "active" : "3",
             "recovery" : "26",
             "onBlock" : "-15",
             "onHit" : "±0",
-            "riscGain" : "1125",
-            "riscLoss" : "3000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1125",
+            "prorate" : "3000"
         },"5[D]" : {
             "damage" : "62",
             "guard" : "High",
@@ -272,12 +272,12 @@
             "recovery" : "26",
             "onBlock" : "-10",
             "onHit" : "KD (+36)",
-            "riscGain" : "1875",
-            "riscLoss" : "1500",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "100%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "100%",
+            "invuln" : "1875",
+            "prorate" : "1500"
         },"236P (Gun Flame)" : {
             "damage" : "40→35→30→30",
             "guard" : "All",
@@ -286,12 +286,12 @@
             "recovery" : "Total 54",
             "onBlock" : "-8",
             "onHit" : "KD (+39)",
-            "riscGain" : "500",
-            "riscLoss" : "2000",
-            "level" : "2",
-            "counter" : "Very Small",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "2",
+            "riscLoss" : "Very Small",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "500",
+            "prorate" : "2000"
         },"214P (Gun Flame (Feint))" : {
             "damage" : "",
             "guard" : "",
@@ -306,7 +306,7 @@
             "counter" : "",
             "invuln" : "",
             "prorate" : ""
-        },"623S (Volcanic Viper)" : {
+        },"623S (S Volcanic Viper)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "9",
@@ -314,13 +314,13 @@
             "recovery" : "18+10 after landing",
             "onBlock" : "-28",
             "onHit" : "KD (+17)",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "1~11F Strike",
-            "prorate" : "60%"
-        },"623H (Volcanic Viper)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "1~11F Strike",
+            "counter" : "60%",
+            "invuln" : "1500",
+            "prorate" : "1000"
+        },"623H (H Volcanic Viper)" : {
             "damage" : "35, 40 [35, 100]",
             "guard" : "All",
             "startup" : "13",
@@ -328,13 +328,13 @@
             "recovery" : "19+10 after landing",
             "onBlock" : "-26",
             "onHit" : "KD (+18) [HKD (+54)]",
-            "riscGain" : "700×2",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Large, Very Small",
-            "invuln" : "1~14F Strike",
-            "prorate" : "60%"
-        },"j.623S (Volcanic Viper)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Large, Very Small",
+            "level" : "1~14F Strike",
+            "counter" : "60%",
+            "invuln" : "700×2",
+            "prorate" : "1000"
+        },"j.623S (Air S Volcanic Viper)" : {
             "damage" : "40",
             "guard" : "All",
             "startup" : "9",
@@ -342,13 +342,13 @@
             "recovery" : "Until landing+10",
             "onBlock" : "",
             "onHit" : "KD",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "1~10F Strike",
-            "prorate" : "60%"
-        },"j.623H (Volcanic Viper)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "1~10F Strike",
+            "counter" : "60%",
+            "invuln" : "1500",
+            "prorate" : "1000"
+        },"j.623H (Air H Volcanic Viper)" : {
             "damage" : "35, 40 [35, 100]",
             "guard" : "All",
             "startup" : "13",
@@ -356,13 +356,13 @@
             "recovery" : "Until landing+10",
             "onBlock" : "",
             "onHit" : "KD [HKD]",
-            "riscGain" : "700×2",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Large, Very Small",
-            "invuln" : "1~14F Strike",
-            "prorate" : "60%"
-        },"236K (Bandit Revolver)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Large, Very Small",
+            "level" : "1~14F Strike",
+            "counter" : "60%",
+            "invuln" : "700×2",
+            "prorate" : "1000"
+        },"236K (Bandit Revolver (1))" : {
             "damage" : "20",
             "guard" : "All",
             "startup" : "12",
@@ -370,13 +370,13 @@
             "recovery" : "9+6 after landing",
             "onBlock" : "-7",
             "onHit" : "-4",
-            "riscGain" : "700",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
-        },"236KK (Bandit Revolver)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "700",
+            "prorate" : "1000"
+        },"236KK (Bandit Revolver (2))" : {
             "damage" : "25",
             "guard" : "All",
             "startup" : "6",
@@ -384,13 +384,13 @@
             "recovery" : "Until landing+17",
             "onBlock" : "-11",
             "onHit" : "KD (+21)",
-            "riscGain" : "700",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
-        },"j.236K (Bandit Revolver)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "700",
+            "prorate" : "1000"
+        },"j.236K (Air Bandit Revolver (1))" : {
             "damage" : "20",
             "guard" : "All",
             "startup" : "10",
@@ -398,13 +398,13 @@
             "recovery" : "Until landing+6",
             "onBlock" : "",
             "onHit" : "",
-            "riscGain" : "700",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
-        },"j.236KK (Bandit Revolver)" : {
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "700",
+            "prorate" : "1000"
+        },"j.236KK (Air Bandit Revolver (2))" : {
             "damage" : "25",
             "guard" : "All",
             "startup" : "6",
@@ -412,12 +412,12 @@
             "recovery" : "Until landing+17",
             "onBlock" : "",
             "onHit" : "KD",
-            "riscGain" : "700",
-            "riscLoss" : "1000",
-            "level" : "2",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
+            "riscGain" : "2",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "700",
+            "prorate" : "1000"
         },"214K (Bandit Bringer)" : {
             "damage" : "50",
             "guard" : "High",
@@ -426,13 +426,13 @@
             "recovery" : "12 after landing",
             "onBlock" : "-2",
             "onHit" : "HKD (+45)",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
-        },"j.214K (Bandit Bringer)" : {
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1500",
+            "prorate" : "1000"
+        },"j.214K (Air Bandit Bringer)" : {
             "damage" : "40",
             "guard" : "High",
             "startup" : "22~30",
@@ -440,12 +440,12 @@
             "recovery" : "Until landing+18",
             "onBlock" : "",
             "onHit" : "HKD",
-            "riscGain" : "1500",
-            "riscLoss" : "1000",
-            "level" : "3",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "80%"
+            "riscGain" : "3",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "80%",
+            "invuln" : "1500",
+            "prorate" : "1000"
         },"623K (Wild Throw)" : {
             "damage" : "120",
             "guard" : "Ground Throw: 120",
@@ -455,11 +455,11 @@
             "onBlock" : "",
             "onHit" : "HKD (+15)",
             "riscGain" : "",
-            "riscLoss" : "2500",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "1~7F Throw",
-            "prorate" : "Forced 50%"
+            "riscLoss" : "",
+            "level" : "1~7F Throw",
+            "counter" : "Forced 50%",
+            "invuln" : "",
+            "prorate" : "2500"
         },"214S (Night Raid Vortex)" : {
             "damage" : "45 [55]",
             "guard" : "All",
@@ -467,13 +467,13 @@
             "active" : "2 [8]",
             "recovery" : "32 [26]",
             "onBlock" : "-17",
-            "onHit" : "HKD (+66) [HKD (+64)]",
-            "riscGain" : "2000",
-            "riscLoss" : "2000",
-            "level" : "3",
-            "counter" : "Large",
-            "invuln" : "7F til 1F before active Low Profile",
-            "prorate" : "90%"
+            "onHit" : "HKD (+66) [HKD (+72)]",
+            "riscGain" : "3",
+            "riscLoss" : "Large",
+            "level" : "7F til 1F before active Low Profile",
+            "counter" : "90%",
+            "invuln" : "2000",
+            "prorate" : "2000"
         },"41236H (Fafnir)" : {
             "damage" : "65",
             "guard" : "All (Guard Crush)",
@@ -482,12 +482,12 @@
             "recovery" : "16",
             "onBlock" : "+11",
             "onHit" : "HKD (+76)",
-            "riscGain" : "2500",
-            "riscLoss" : "2000",
-            "level" : "4",
-            "counter" : "Mid",
-            "invuln" : "",
-            "prorate" : "90%"
+            "riscGain" : "4",
+            "riscLoss" : "Mid",
+            "level" : "",
+            "counter" : "90%",
+            "invuln" : "2500",
+            "prorate" : "2000"
         },"632146H (Tyrant Rave)" : {
             "damage" : "70, 100 [70, 130]",
             "guard" : "All",
@@ -496,12 +496,12 @@
             "recovery" : "41",
             "onBlock" : "-44",
             "onHit" : "HKD (+19) [HKD (+49)]",
-            "riscGain" : "1200, 1000",
-            "riscLoss" : "1000",
-            "level" : "4, 3",
-            "counter" : "Mid, Very Small",
-            "invuln" : "1~8F Full",
-            "prorate" : "100%"
+            "riscGain" : "4, 3",
+            "riscLoss" : "Mid, Very Small",
+            "level" : "1~8F Full",
+            "counter" : "100%",
+            "invuln" : "1200, 1000",
+            "prorate" : "1000"
         },"214214H (Heavy Mob Cemetery)" : {
             "damage" : "40, 161",
             "guard" : "Ground Throw: 150",
@@ -511,11 +511,11 @@
             "onBlock" : "",
             "onHit" : "HKD (+27)",
             "riscGain" : "",
-            "riscLoss" : "1000",
-            "level" : "",
-            "counter" : "",
-            "invuln" : "14~35F Throw, Guardpoint",
-            "prorate" : "100%"
+            "riscLoss" : "",
+            "level" : "14~35F Throw, Guardpoint",
+            "counter" : "100%",
+            "invuln" : "",
+            "prorate" : "1000"
         },"Ground Throw" : {
             "damage" : "80",
             "guard" : "Ground Throw: 90",
@@ -525,11 +525,11 @@
             "onBlock" : "",
             "onHit" : "HKD (+40)",
             "riscGain" : "",
-            "riscLoss" : "2500",
+            "riscLoss" : "",
             "level" : "",
-            "counter" : "",
+            "counter" : "Forced 50%",
             "invuln" : "",
-            "prorate" : "Forced 50%"
+            "prorate" : "2500"
         },"Air Throw" : {
             "damage" : "80",
             "guard" : "Air Throw: 200",
@@ -539,11 +539,11 @@
             "onBlock" : "",
             "onHit" : "HKD",
             "riscGain" : "",
-            "riscLoss" : "2500",
+            "riscLoss" : "",
             "level" : "",
-            "counter" : "",
+            "counter" : "Forced 50%",
             "invuln" : "",
-            "prorate" : "Forced 50%"
+            "prorate" : "2500"
         },"Finish Blow" : {
             "damage" : "80",
             "guard" : "",
@@ -553,11 +553,11 @@
             "onBlock" : "",
             "onHit" : "HKD (+23)",
             "riscGain" : "",
-            "riscLoss" : "1000",
+            "riscLoss" : "",
             "level" : "",
             "counter" : "",
             "invuln" : "",
-            "prorate" : ""
+            "prorate" : "1000"
         },"Dash Cancel" : {
             "damage" : "",
             "guard" : "",
