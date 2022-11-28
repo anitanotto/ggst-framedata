@@ -25,7 +25,7 @@ Data can be obtained by making a GET request to `/api/:characterName` with the n
 * testament
 * zato-1
 
-**Link to project:** http://ggst-framedata.herokuapp.com/api
+**Link to project:** https://ggst-framedata.onrender.com/
 
 ![alt tag](https://www.guiltygear.com/ggst/en/wordpress/wp-content/themes/ggst/img/logo.webp)
 
@@ -45,6 +45,6 @@ Inputting all of the data for this API manually would have taken much more time 
 
 ## Examples:
 An app I made using the frame data api to determine which moves your character can punish with on block in any matchup:
-http://ggst-framedata.herokuapp.com/
+https://ggst-framedata.onrender.com/
 
 Let me know if you make something with this API so I can link it here, too!
